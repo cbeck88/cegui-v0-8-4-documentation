@@ -1,0 +1,5 @@
+<map id="CEGUI::OgreImageCodec" name="CEGUI::OgreImageCodec">
+<area shape="rect" id="node2" href="$classCEGUI_1_1ImageCodec.html" title="Abstract ImageLoader class. An image loader encapsulate the loading of a texture. ..." alt="" coords="59,131,205,165"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; ImageCodec \&gt;" alt="" coords="5,6,171,61"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1String.html" title="String class used within the GUI system. " alt="" coords="205,17,312,50"/>
+</map>

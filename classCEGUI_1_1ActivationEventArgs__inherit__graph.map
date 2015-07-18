@@ -1,0 +1,4 @@
+<map id="CEGUI::ActivationEventArgs" name="CEGUI::ActivationEventArgs">
+<area shape="rect" id="node2" href="$classCEGUI_1_1WindowEventArgs.html" title="EventArgs based class that is used for objects passed to handlers triggered for events concerning som..." alt="" coords="11,89,192,122"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1EventArgs.html" title="Base class used as the argument to all subscribers Event object. " alt="" coords="35,6,168,39"/>
+</map>

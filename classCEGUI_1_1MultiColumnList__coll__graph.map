@@ -1,0 +1,5 @@
+<map id="CEGUI::MultiColumnList" name="CEGUI::MultiColumnList">
+<area shape="rect" id="node2" href="$classCEGUI_1_1Window.html" title="An abstract base class providing common functionality and specifying the required interface for deriv..." alt="" coords="167,327,287,361"/>
+<area shape="rect" id="node7" href="$classCEGUI_1_1ListboxItem.html" title="Base class for list box items. " alt="" coords="296,649,438,682"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1String.html" title="String class used within the GUI system. " alt="" coords="174,6,280,39"/>
+</map>

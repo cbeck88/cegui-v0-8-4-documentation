@@ -1,0 +1,5 @@
+<map id="CEGUI::TabButton" name="CEGUI::TabButton">
+<area shape="rect" id="node2" href="$classCEGUI_1_1ButtonBase.html" title="Base class for all the &#39;button&#39; type widgets (push button, radio button, check&#45;box, etc) " alt="" coords="266,513,407,546"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1Window.html" title="An abstract base class providing common functionality and specifying the required interface for deriv..." alt="" coords="83,323,203,357"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1String.html" title="String class used within the GUI system. " alt="" coords="6,6,112,39"/>
+</map>

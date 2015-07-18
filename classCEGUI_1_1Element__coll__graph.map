@@ -1,0 +1,5 @@
+<map id="CEGUI::Element" name="CEGUI::Element">
+<area shape="rect" id="node2" href="$classCEGUI_1_1PropertySet.html" title="Class that contains a collection of Property objects. " alt="" coords="5,17,147,50"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1EventSet.html" title="Class that collects together a set of Event objects. " alt="" coords="171,17,296,50"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; Element \&gt;" alt="" coords="320,6,485,61"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CEGUI::RenderTarget" name="CEGUI::RenderTarget">
+<area shape="rect" id="node2" href="$classCEGUI_1_1EventSet.html" title="Class that collects together a set of Event objects. " alt="" coords="5,17,131,50"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; RenderTarget \&gt;" alt="" coords="155,6,320,61"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1String.html" title="String class used within the GUI system. " alt="" coords="344,17,451,50"/>
+</map>

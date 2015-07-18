@@ -1,0 +1,5 @@
+<map id="CEGUI::Menubar" name="CEGUI::Menubar">
+<area shape="rect" id="node2" href="$classCEGUI_1_1MenuBase.html" title="Abstract base class for menus. " alt="" coords="89,329,223,362"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1ItemListBase.html" title="Base class for item list widgets. " alt="" coords="297,189,447,222"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1String.html" title="String class used within the GUI system. " alt="" coords="103,6,209,39"/>
+</map>

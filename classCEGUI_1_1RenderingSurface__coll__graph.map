@@ -1,0 +1,5 @@
+<map id="CEGUI::RenderingSurface" name="CEGUI::RenderingSurface">
+<area shape="rect" id="node2" href="$classCEGUI_1_1EventSet.html" title="Class that collects together a set of Event objects. " alt="" coords="5,6,131,39"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1RenderTarget.html" title="Defines interface to some surface that can be rendered to. Concrete instances of objects that impleme..." alt="" coords="69,102,219,135"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; RenderingSurface \&gt;" alt="" coords="243,91,408,146"/>
+</map>

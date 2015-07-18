@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; StringTranscoder \&gt;" alt="" coords="5,22,171,77"/>
+<area shape="rect" id="node3" href="$classCEGUI_1_1StringTranscoder.html" title="Interface for a string transcoding utility. Instances of classes that implement this interface can be..." alt="" coords="219,33,389,66"/>
+<area shape="rect" id="node5" href="$classCEGUI_1_1IconvStringTranscoder.html" title="Implementation of StringTranscoder that uses iconv. " alt="" coords="440,5,643,38"/>
+<area shape="rect" id="node7" href="$classCEGUI_1_1Win32StringTranscoder.html" title="Implementation of StringTranscoder that uses Win32. " alt="" coords="437,61,645,94"/>
+</map>

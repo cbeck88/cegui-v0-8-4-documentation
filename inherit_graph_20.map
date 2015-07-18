@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; FormattedRenderedString \&gt;" alt="" coords="5,138,200,193"/>
+<area shape="rect" id="node3" href="$classCEGUI_1_1FormattedRenderedString.html" title="Root of a class hierarchy that wrap RenderedString objects and render them with additional formatting..." alt="" coords="249,138,436,193"/>
+<area shape="rect" id="node5" href="$classCEGUI_1_1CentredRenderedString.html" title="FormattedRenderedString implementation that renders the RenderedString with centred formatting..." alt="" coords="487,5,695,38"/>
+<area shape="rect" id="node7" href="$classCEGUI_1_1JustifiedRenderedString.html" title="FormattedRenderedString implementation that renders the RenderedString with justified formatting..." alt="" coords="501,61,680,115"/>
+<area shape="rect" id="node9" href="$classCEGUI_1_1LeftAlignedRenderedString.html" title="FormattedRenderedString implementation that renders the RenderedString with left aligned formatting..." alt="" coords="493,138,688,193"/>
+<area shape="rect" id="node11" href="$classCEGUI_1_1RenderedStringWordWrapper.html" title="Class that handles wrapping of a rendered string into sub&#45;strings. Each sub&#45;string is rendered using ..." alt="" coords="493,215,688,270"/>
+<area shape="rect" id="node13" href="$classCEGUI_1_1RightAlignedRenderedString.html" title="FormattedRenderedString implementation that renders the RenderedString with right aligned formatting..." alt="" coords="489,293,692,347"/>
+</map>

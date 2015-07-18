@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; NativeClipboardProvider \&gt;" alt="" coords="5,22,192,77"/>
+<area shape="rect" id="node3" href="$classCEGUI_1_1Clipboard.html" title="Defines a clipboard handling class. " alt="" coords="284,5,412,38"/>
+<area shape="rect" id="node5" href="$classCEGUI_1_1NativeClipboardProvider.html" title="Lightweight interface providing access to the system&#45;wide native clipboard. " alt="" coords="241,61,455,94"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="CEGUI::Logger" name="CEGUI::Logger">
+<area shape="rect" id="node5" href="$classCEGUI_1_1DefaultLogger.html" title="Default implementation for the Logger class. If you want to redirect CEGUI logs to some place other t..." alt="" coords="23,171,177,205"/>
+<area shape="rect" id="node2" href="$classCEGUI_1_1Singleton.html" title="CEGUI::Singleton\&lt; Logger \&gt;" alt="" coords="5,6,195,39"/>
+</map>

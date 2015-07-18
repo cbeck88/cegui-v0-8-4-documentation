@@ -1,0 +1,5 @@
+<map id="CEGUI::Thumb" name="CEGUI::Thumb">
+<area shape="rect" id="node2" href="$classCEGUI_1_1PushButton.html" title="Base class to provide logic for push button type widgets. " alt="" coords="212,189,354,222"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1String.html" title="String class used within the GUI system. " alt="" coords="36,6,143,39"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1Vector2.html" title="CEGUI::Vector2\&lt; float \&gt;" alt="" coords="378,189,543,222"/>
+</map>

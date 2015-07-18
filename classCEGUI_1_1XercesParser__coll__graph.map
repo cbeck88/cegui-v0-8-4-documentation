@@ -1,0 +1,5 @@
+<map id="CEGUI::XercesParser" name="CEGUI::XercesParser">
+<area shape="rect" id="node2" href="$classCEGUI_1_1XMLParser.html" title="This is an abstract class that is used by CEGUI to interface with XML parser libraries. " alt="" coords="297,54,436,87"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1String.html" title="String class used within the GUI system. " alt="" coords="5,17,112,50"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1XercesParserProperties_1_1SchemaDefaultResourceGroup.html" title="Property to access the resource group used to load .xsd schema files. " alt="" coords="261,110,472,165"/>
+</map>

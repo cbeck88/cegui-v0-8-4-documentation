@@ -1,0 +1,5 @@
+<map id="CEGUI::Direct3D9TextureTarget" name="CEGUI::Direct3D9TextureTarget">
+<area shape="rect" id="node2" href="$classCEGUI_1_1Direct3D9RenderTarget.html" title="CEGUI::Direct3D9RenderTarget\l\&lt; TextureTarget \&gt;" alt="" coords="5,91,216,146"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1TextureTarget.html" title="Specialisation of RenderTarget interface that should be used as the base class for RenderTargets that..." alt="" coords="35,6,187,39"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1Direct3D9Texture.html" title="Texture implementation for the Direct3D9Renderer. " alt="" coords="240,102,413,135"/>
+</map>

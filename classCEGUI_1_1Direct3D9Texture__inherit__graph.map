@@ -1,0 +1,4 @@
+<map id="CEGUI::Direct3D9Texture" name="CEGUI::Direct3D9Texture">
+<area shape="rect" id="node2" href="$classCEGUI_1_1Texture.html" title="Abstract base class specifying the required interface for Texture objects. " alt="" coords="35,110,149,143"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; Texture \&gt;" alt="" coords="9,6,175,61"/>
+</map>

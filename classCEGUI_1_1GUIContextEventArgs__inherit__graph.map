@@ -1,0 +1,4 @@
+<map id="CEGUI::GUIContextEventArgs" name="CEGUI::GUIContextEventArgs">
+<area shape="rect" id="node5" href="$classCEGUI_1_1GUIContextRenderTargetEventArgs.html" title="EventArgs class passed for GUIContext RenderTarget related events. " alt="" coords="5,171,227,226"/>
+<area shape="rect" id="node2" href="$classCEGUI_1_1EventArgs.html" title="Base class used as the argument to all subscribers Event object. " alt="" coords="49,6,183,39"/>
+</map>

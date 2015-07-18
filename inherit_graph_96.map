@@ -1,0 +1,14 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; Exception \&gt;" alt="" coords="5,213,171,267"/>
+<area shape="rect" id="node3" href="$classCEGUI_1_1Exception.html" title="Root exception class used within the GUI system. " alt="" coords="219,257,349,290"/>
+<area shape="rect" id="node5" href="$classCEGUI_1_1AlreadyExistsException.html" title="Exception class used when an attempt is made create a named object of a particular type when an objec..." alt="" coords="404,5,615,38"/>
+<area shape="rect" id="node7" href="$classCEGUI_1_1FileIOException.html" title="Exception class used when a file handling problem occurs. " alt="" coords="427,61,592,94"/>
+<area shape="rect" id="node9" href="$classCEGUI_1_1GenericException.html" title="Exception class used when none of the other classes are applicable. " alt="" coords="421,117,597,150"/>
+<area shape="rect" id="node11" href="$classCEGUI_1_1InvalidRequestException.html" title="Exception class used when some impossible request was made of the system. " alt="" coords="400,173,619,206"/>
+<area shape="rect" id="node13" href="$classCEGUI_1_1MemoryException.html" title="Exception class used when a memory handling error is detected. " alt="" coords="420,229,599,262"/>
+<area shape="rect" id="node15" href="$classCEGUI_1_1NullObjectException.html" title="Exception class used when some required object or parameter is null. " alt="" coords="413,285,605,318"/>
+<area shape="rect" id="node17" href="$classCEGUI_1_1ObjectInUseException.html" title="Exception class used when some attempt to delete, remove, or otherwise invalidate some object that is..." alt="" coords="408,341,611,374"/>
+<area shape="rect" id="node19" href="$classCEGUI_1_1RendererException.html" title="Exception class used for problems in the rendering subsystem classes. " alt="" coords="417,397,601,430"/>
+<area shape="rect" id="node21" href="$classCEGUI_1_1ScriptException.html" title="Exception class used for issues in scripting subsystem. " alt="" coords="427,453,592,486"/>
+<area shape="rect" id="node23" href="$classCEGUI_1_1UnknownObjectException.html" title="Exception class used when a request was made for an unknown object. " alt="" coords="397,509,621,542"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCEGUI_1_1SlotFunctorBase.html" title="Defines abstract interface which will be used when constructing various functor objects that bind slo..." alt="" coords="5,117,176,150"/>
+<area shape="rect" id="node3" href="$classCEGUI_1_1FreeFunctionSlot.html" title="Slot functor class that calls back via a free function pointer. " alt="" coords="255,5,425,38"/>
+<area shape="rect" id="node5" href="$classCEGUI_1_1FunctorCopySlot.html" title="Slot template class that creates a functor that calls back via a copy of a functor object..." alt="" coords="239,61,441,94"/>
+<area shape="rect" id="node7" href="$classCEGUI_1_1FunctorPointerSlot.html" title="Slot template class that creates a functor that calls back via a functor object pointer. " alt="" coords="233,117,447,150"/>
+<area shape="rect" id="node9" href="$classCEGUI_1_1FunctorReferenceSlot.html" title="Slot template class that creates a functor that calls back via a functor object reference. " alt="" coords="224,173,456,206"/>
+<area shape="rect" id="node11" href="$classCEGUI_1_1MemberFunctionSlot.html" title="Slot template class that creates a functor that calls back via a class member function. " alt="" coords="228,229,452,262"/>
+</map>

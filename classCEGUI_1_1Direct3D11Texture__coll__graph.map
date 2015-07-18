@@ -1,0 +1,5 @@
+<map id="CEGUI::Direct3D11Texture" name="CEGUI::Direct3D11Texture">
+<area shape="rect" id="node2" href="$classCEGUI_1_1Texture.html" title="Abstract base class specifying the required interface for Texture objects. " alt="" coords="5,6,120,39"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1String.html" title="String class used within the GUI system. " alt="" coords="144,6,251,39"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1Vector2.html" title="CEGUI::Vector2\&lt; float \&gt;" alt="" coords="275,6,440,39"/>
+</map>

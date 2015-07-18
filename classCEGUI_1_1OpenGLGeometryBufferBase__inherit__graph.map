@@ -1,0 +1,4 @@
+<map id="CEGUI::OpenGLGeometryBufferBase" name="CEGUI::OpenGLGeometryBufferBase">
+<area shape="rect" id="node5" href="$classCEGUI_1_1OpenGL3GeometryBuffer.html" title="OpenGL3 based implementation of the GeometryBuffer interface. " alt="" coords="16,171,235,205"/>
+<area shape="rect" id="node2" href="$classCEGUI_1_1GeometryBuffer.html" title="Abstract class defining the interface for objects that buffer geometry for later rendering. " alt="" coords="44,6,207,39"/>
+</map>

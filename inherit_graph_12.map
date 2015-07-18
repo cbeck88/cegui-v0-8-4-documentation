@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; Event \&gt;" alt="" coords="5,5,171,59"/>
+<area shape="rect" id="node3" href="$classCEGUI_1_1Event.html" title="Defines an &#39;event&#39; which can be subscribed to by interested parties. " alt="" coords="219,15,325,49"/>
+<area shape="rect" id="node5" href="$classCEGUI_1_1LinkedEvent.html" title="LinkedEvent is an Event subclass that provides a mechanism to link or chain Events together..." alt="" coords="375,15,519,49"/>
+</map>

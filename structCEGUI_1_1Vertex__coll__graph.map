@@ -1,0 +1,5 @@
+<map id="CEGUI::Vertex" name="CEGUI::Vertex">
+<area shape="rect" id="node2" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; Vertex \&gt;" alt="" coords="5,6,171,61"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1Vector3.html" title="CEGUI::Vector3\&lt; float \&gt;" alt="" coords="195,17,360,50"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1Vector2.html" title="CEGUI::Vector2\&lt; float \&gt;" alt="" coords="384,17,549,50"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; GeometryBuffer \&gt;" alt="" coords="5,282,171,337"/>
+<area shape="rect" id="node3" href="$classCEGUI_1_1GeometryBuffer.html" title="Abstract class defining the interface for objects that buffer geometry for later rendering. " alt="" coords="220,293,383,326"/>
+<area shape="rect" id="node5" href="$classCEGUI_1_1Direct3D10GeometryBuffer.html" title="Implementation of CEGUI::GeometryBuffer for the Direct3D 10 API. " alt="" coords="456,5,651,59"/>
+<area shape="rect" id="node7" href="$classCEGUI_1_1Direct3D11GeometryBuffer.html" title="Implementation of CEGUI::GeometryBuffer for the Direct3D 10 API. " alt="" coords="456,82,651,137"/>
+<area shape="rect" id="node9" href="$classCEGUI_1_1Direct3D9GeometryBuffer.html" title="Direct3D9 based implementation of the GeometryBuffer interface. " alt="" coords="459,159,648,214"/>
+<area shape="rect" id="node11" href="$classCEGUI_1_1DirectFBGeometryBuffer.html" title="Implemetation of CEGUI::GeometryBuffer for DirectFB. " alt="" coords="445,237,661,270"/>
+<area shape="rect" id="node13" href="$classCEGUI_1_1IrrlichtGeometryBuffer.html" title="GeometryBuffer implementation for the Irrlicht engine. " alt="" coords="453,293,653,326"/>
+<area shape="rect" id="node15" href="$classCEGUI_1_1NullGeometryBuffer.html" title="Implementation of CEGUI::GeometryBuffer for the Null engine. " alt="" coords="460,349,647,382"/>
+<area shape="rect" id="node17" href="$classCEGUI_1_1OgreGeometryBuffer.html" title="Implementation of CEGUI::GeometryBuffer for the Ogre engine. " alt="" coords="457,405,649,438"/>
+<area shape="rect" id="node19" href="$classCEGUI_1_1OpenGLESGeometryBuffer.html" title="OpenGLES based implementation of the GeometryBuffer interface. " alt="" coords="439,461,668,494"/>
+<area shape="rect" id="node21" href="$classCEGUI_1_1OpenGLGeometryBufferBase.html" title="OpenGL based implementation of the GeometryBuffer interface. " alt="" coords="433,517,673,550"/>
+<area shape="rect" id="node23" href="$classCEGUI_1_1OpenGL3GeometryBuffer.html" title="OpenGL3 based implementation of the GeometryBuffer interface. " alt="" coords="723,489,941,522"/>
+<area shape="rect" id="node25" href="$classCEGUI_1_1OpenGLGeometryBuffer.html" title="OpenGL based implementation of the GeometryBuffer interface. " alt="" coords="727,545,937,578"/>
+</map>

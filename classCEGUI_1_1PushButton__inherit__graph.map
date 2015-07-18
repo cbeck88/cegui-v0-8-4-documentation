@@ -1,0 +1,4 @@
+<map id="CEGUI::PushButton" name="CEGUI::PushButton">
+<area shape="rect" id="node5" href="$classCEGUI_1_1Thumb.html" title="Base class for Thumb widget. " alt="" coords="20,171,132,205"/>
+<area shape="rect" id="node2" href="$classCEGUI_1_1ButtonBase.html" title="Base class for all the &#39;button&#39; type widgets (push button, radio button, check&#45;box, etc) " alt="" coords="5,6,147,39"/>
+</map>

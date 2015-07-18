@@ -1,0 +1,4 @@
+<map id="CEGUI::Listbox" name="CEGUI::Listbox">
+<area shape="rect" id="node5" href="$classCEGUI_1_1ComboDropList.html" title="Base class for the combo box drop down list. This is a specialisation of the Listbox class..." alt="" coords="5,171,168,205"/>
+<area shape="rect" id="node2" href="$classCEGUI_1_1Window.html" title="An abstract base class providing common functionality and specifying the required interface for deriv..." alt="" coords="27,6,147,39"/>
+</map>

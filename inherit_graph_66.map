@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; Texture \&gt;" alt="" coords="5,218,171,273"/>
+<area shape="rect" id="node3" href="$classCEGUI_1_1Texture.html" title="Abstract base class specifying the required interface for Texture objects. " alt="" coords="220,229,335,262"/>
+<area shape="rect" id="node5" href="$classCEGUI_1_1Direct3D10Texture.html" title="Texture implementation for the Direct3D10Renderer. " alt="" coords="385,5,567,38"/>
+<area shape="rect" id="node7" href="$classCEGUI_1_1Direct3D11Texture.html" title="Texture implementation for the Direct3D11Renderer. " alt="" coords="385,61,567,94"/>
+<area shape="rect" id="node9" href="$classCEGUI_1_1Direct3D9Texture.html" title="Texture implementation for the Direct3D9Renderer. " alt="" coords="389,117,563,150"/>
+<area shape="rect" id="node11" href="$classCEGUI_1_1DirectFBTexture.html" title="Implementation of CEGUI::Texture interface using DirectFB. " alt="" coords="392,173,560,206"/>
+<area shape="rect" id="node13" href="$classCEGUI_1_1IrrlichtTexture.html" title="Implementation of the CEGUI::Texture class for the Irrlicht engine. " alt="" coords="400,229,552,262"/>
+<area shape="rect" id="node15" href="$classCEGUI_1_1NullTexture.html" title="Implementation of the CEGUI::Texture class for no particular engine. " alt="" coords="407,285,545,318"/>
+<area shape="rect" id="node17" href="$classCEGUI_1_1OgreTexture.html" title="Implementation of the CEGUI::Texture class for the Ogre engine. " alt="" coords="404,341,548,374"/>
+<area shape="rect" id="node19" href="$classCEGUI_1_1OpenGLESTexture.html" title="Texture implementation for the OpenGLESRenderer. " alt="" coords="385,397,567,430"/>
+<area shape="rect" id="node21" href="$classCEGUI_1_1OpenGLTexture.html" title="Texture implementation for the OpenGLRenderer. " alt="" coords="395,453,557,486"/>
+</map>

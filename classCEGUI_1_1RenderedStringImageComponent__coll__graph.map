@@ -1,0 +1,5 @@
+<map id="CEGUI::RenderedStringImageComponent" name="CEGUI::RenderedStringImageComponent">
+<area shape="rect" id="node2" href="$classCEGUI_1_1RenderedStringComponent.html" title="Base class representing a part of a rendered string. The &#39;part&#39; represented may be a text string..." alt="" coords="79,110,308,143"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1Image.html" title="Interface for Image. " alt="" coords="5,6,115,39"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1ColourRect.html" title="Class that holds details of colours for the four corners of a rectangle. " alt="" coords="332,110,471,143"/>
+</map>

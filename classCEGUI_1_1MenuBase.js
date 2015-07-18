@@ -1,0 +1,25 @@
+var classCEGUI_1_1MenuBase =
+[
+    [ "MenuBase", "classCEGUI_1_1MenuBase.html#aff4b55bc981fbc0f05a002f36d5b58b5", null ],
+    [ "~MenuBase", "classCEGUI_1_1MenuBase.html#a5d117a954cf7c4f2c0ea9258dec91205", null ],
+    [ "changePopupMenuItem", "classCEGUI_1_1MenuBase.html#a3a9a755d9383ce11b1cfb1e9b59cfb9d", null ],
+    [ "getAutoCloseNestedPopups", "classCEGUI_1_1MenuBase.html#a95fffa724c12db58cdf0fb54bad65d5a", null ],
+    [ "getItemSpacing", "classCEGUI_1_1MenuBase.html#a368d980a69837e104eb34638d206eb5c", null ],
+    [ "getPopupMenuItem", "classCEGUI_1_1MenuBase.html#a9bd3bd9c63921ed5247ec2802453302d", null ],
+    [ "isMultiplePopupsAllowed", "classCEGUI_1_1MenuBase.html#af8ba92fe83b527ac05930839e286037a", null ],
+    [ "onChildRemoved", "classCEGUI_1_1MenuBase.html#a469cab9ef8f1fdb6451a7c30ea6e1f5d", null ],
+    [ "onHidden", "classCEGUI_1_1MenuBase.html#a675b4ffc352e1aa6c4b51cb2729bbbf4", null ],
+    [ "onPopupClosed", "classCEGUI_1_1MenuBase.html#a11733a6c16cfda98fb6f6e0dc4834372", null ],
+    [ "onPopupOpened", "classCEGUI_1_1MenuBase.html#a4547fc7b1ef6eed810bf8ddae2400858", null ],
+    [ "setAllowMultiplePopups", "classCEGUI_1_1MenuBase.html#aac376faf2f3439ab46f7eace6849e240", null ],
+    [ "setAutoCloseNestedPopups", "classCEGUI_1_1MenuBase.html#a7c12ed6f499eb10bd0dec5c12f40d59e", null ],
+    [ "setItemSpacing", "classCEGUI_1_1MenuBase.html#a1fdc6c12ed096081496287f71c816787", null ],
+    [ "setPopupMenuItemClosing", "classCEGUI_1_1MenuBase.html#aee23e933da0ea0a362dd6f63e5244b0d", null ],
+    [ "d_allowMultiplePopups", "classCEGUI_1_1MenuBase.html#a5058b11ad35f3d06676d9b7dda8192c4", null ],
+    [ "d_autoCloseNestedPopups", "classCEGUI_1_1MenuBase.html#af7117f43cf1d9d4bac183afaa06495d2", null ],
+    [ "d_itemSpacing", "classCEGUI_1_1MenuBase.html#a101c9f836bb21a774c6b2c5381fb7671", null ],
+    [ "d_popupItem", "classCEGUI_1_1MenuBase.html#ad7fbd48481d662f89f36e3d9db0d3f29", null ],
+    [ "EventNamespace", "classCEGUI_1_1MenuBase.html#aac9f55e907c43c3a25c23ec899df5660", null ],
+    [ "EventPopupClosed", "classCEGUI_1_1MenuBase.html#a4d9e3446bae22d4fa2b9f558deaf4b68", null ],
+    [ "EventPopupOpened", "classCEGUI_1_1MenuBase.html#a19f1ffa6c23528c694772ab87ba54d8c", null ]
+];

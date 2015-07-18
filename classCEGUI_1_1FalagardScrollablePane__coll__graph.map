@@ -1,0 +1,5 @@
+<map id="CEGUI::FalagardScrollablePane" name="CEGUI::FalagardScrollablePane">
+<area shape="rect" id="node2" href="$classCEGUI_1_1ScrollablePaneWindowRenderer.html" title="Base class for ScrollablePane window renderer objects. " alt="" coords="105,235,311,290"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1WindowRenderer.html" title="Base&#45;class for the assignable WindowRenderer object. " alt="" coords="109,131,283,165"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1String.html" title="String class used within the GUI system. " alt="" coords="57,6,164,39"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="CEGUI::LuaScriptModule" name="CEGUI::LuaScriptModule">
+<area shape="rect" id="node2" href="$classCEGUI_1_1ScriptModule.html" title="Abstract interface required for all scripting support modules to be used with the CEGUI system..." alt="" coords="16,110,165,143"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; ScriptModule \&gt;" alt="" coords="8,6,173,61"/>
+</map>

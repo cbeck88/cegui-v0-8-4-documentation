@@ -1,0 +1,4 @@
+<map id="CEGUI::OpenGL3Renderer" name="CEGUI::OpenGL3Renderer">
+<area shape="rect" id="node2" href="$classCEGUI_1_1OpenGLRendererBase.html" title="Common base class used for other OpenGL based renderer modules. " alt="" coords="5,89,208,122"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1Renderer.html" title="Abstract class defining the basic required interface for Renderer objects. " alt="" coords="44,6,169,39"/>
+</map>

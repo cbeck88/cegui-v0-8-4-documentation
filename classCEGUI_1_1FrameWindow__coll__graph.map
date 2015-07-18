@@ -1,0 +1,5 @@
+<map id="CEGUI::FrameWindow" name="CEGUI::FrameWindow">
+<area shape="rect" id="node2" href="$classCEGUI_1_1Window.html" title="An abstract base class providing common functionality and specifying the required interface for deriv..." alt="" coords="200,391,320,425"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1String.html" title="String class used within the GUI system. " alt="" coords="48,6,155,39"/>
+<area shape="rect" id="node7" href="$classCEGUI_1_1Vector2.html" title="CEGUI::Vector2\&lt; float \&gt;" alt="" coords="450,391,615,425"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CEGUI::Direct3D9Texture" name="CEGUI::Direct3D9Texture">
+<area shape="rect" id="node2" href="$classCEGUI_1_1Texture.html" title="Abstract base class specifying the required interface for Texture objects. " alt="" coords="5,6,120,39"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1Direct3D9Renderer.html" title="Renderer class to interface with Direct3D 9. " alt="" coords="144,6,328,39"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1String.html" title="String class used within the GUI system. " alt="" coords="352,6,459,39"/>
+</map>

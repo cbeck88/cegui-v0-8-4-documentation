@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; RegexMatcher \&gt;" alt="" coords="5,5,171,59"/>
+<area shape="rect" id="node3" href="$classCEGUI_1_1RegexMatcher.html" title="Interface for Regex matching support classes. " alt="" coords="220,15,377,49"/>
+<area shape="rect" id="node5" href="$classCEGUI_1_1PCRERegexMatcher.html" title="CEGUI::PCRERegexMatcher" alt="" coords="428,15,623,49"/>
+</map>

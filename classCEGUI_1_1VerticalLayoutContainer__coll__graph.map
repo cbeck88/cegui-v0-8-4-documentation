@@ -1,0 +1,5 @@
+<map id="CEGUI::VerticalLayoutContainer" name="CEGUI::VerticalLayoutContainer">
+<area shape="rect" id="node2" href="$classCEGUI_1_1SequentialLayoutContainer.html" title="An abstract base class providing common functionality and specifying the required interface for deriv..." alt="" coords="103,222,332,255"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1LayoutContainer.html" title="An abstract base class providing common functionality and specifying the required interface for deriv..." alt="" coords="372,114,540,147"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1String.html" title="String class used within the GUI system. " alt="" coords="141,6,248,39"/>
+</map>

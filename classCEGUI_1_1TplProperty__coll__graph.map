@@ -1,0 +1,5 @@
+<map id="CEGUI::TplProperty&lt; C, T &gt;" name="CEGUI::TplProperty&lt; C, T &gt;">
+<area shape="rect" id="node2" href="$classCEGUI_1_1TypedProperty.html" title="base class for properties able to do native set/get " alt="" coords="5,102,195,135"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1Property.html" title="An abstract class that defines the interface to access object properties by name. ..." alt="" coords="39,6,161,39"/>
+<area shape="rect" id="node6" href="$structCEGUI_1_1TplProperty_1_1GetterFunctor.html" title="CEGUI::TplProperty\l\&lt; C, T \&gt;::GetterFunctor" alt="" coords="219,91,379,146"/>
+</map>

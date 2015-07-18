@@ -1,0 +1,5 @@
+<map id="CEGUI::FalagardMultiLineEditbox" name="CEGUI::FalagardMultiLineEditbox">
+<area shape="rect" id="node2" href="$classCEGUI_1_1MultiLineEditboxWindowRenderer.html" title="Base class for multi&#45;line edit box window renderer objects. " alt="" coords="113,406,329,461"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1WindowRenderer.html" title="Base&#45;class for the assignable WindowRenderer object. " alt="" coords="124,131,297,165"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1String.html" title="String class used within the GUI system. " alt="" coords="45,6,152,39"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CEGUI::Editbox" name="CEGUI::Editbox">
+<area shape="rect" id="node2" href="$classCEGUI_1_1Window.html" title="An abstract base class providing common functionality and specifying the required interface for deriv..." alt="" coords="291,423,411,457"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1String.html" title="String class used within the GUI system. " alt="" coords="78,6,184,39"/>
+<area shape="rect" id="node7" href="$classCEGUI_1_1RegexMatcher.html" title="Interface for Regex matching support classes. " alt="" coords="540,423,698,457"/>
+</map>

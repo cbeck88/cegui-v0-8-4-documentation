@@ -1,0 +1,5 @@
+<map id="CEGUI::RenderedStringWidgetComponent" name="CEGUI::RenderedStringWidgetComponent">
+<area shape="rect" id="node2" href="$classCEGUI_1_1RenderedStringComponent.html" title="Base class representing a part of a rendered string. The &#39;part&#39; represented may be a text string..." alt="" coords="5,323,235,357"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1String.html" title="String class used within the GUI system. " alt="" coords="285,6,392,39"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1Window.html" title="An abstract base class providing common functionality and specifying the required interface for deriv..." alt="" coords="404,323,524,357"/>
+</map>

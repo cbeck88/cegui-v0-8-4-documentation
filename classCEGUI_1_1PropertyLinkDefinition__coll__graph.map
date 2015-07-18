@@ -1,0 +1,5 @@
+<map id="CEGUI::PropertyLinkDefinition&lt; T &gt;" name="CEGUI::PropertyLinkDefinition&lt; T &gt;">
+<area shape="rect" id="node2" href="$classCEGUI_1_1FalagardPropertyBase.html" title="CEGUI::FalagardPropertyBase\&lt; T \&gt;" alt="" coords="101,89,336,122"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1PropertyDefinitionBase.html" title="common base class used for types representing a new property to be available on all widgets that use ..." alt="" coords="5,6,211,39"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1TypedProperty.html" title="base class for properties able to do native set/get " alt="" coords="235,6,424,39"/>
+</map>

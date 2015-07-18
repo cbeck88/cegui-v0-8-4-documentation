@@ -1,0 +1,5 @@
+<map id="CEGUI::IrrlichtTextureTarget" name="CEGUI::IrrlichtTextureTarget">
+<area shape="rect" id="node2" href="$classCEGUI_1_1IrrlichtRenderTarget.html" title="CEGUI::IrrlichtRenderTarget\l\&lt; TextureTarget \&gt;" alt="" coords="5,91,192,146"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1TextureTarget.html" title="Specialisation of RenderTarget interface that should be used as the base class for RenderTargets that..." alt="" coords="23,6,175,39"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1IrrlichtTexture.html" title="Implementation of the CEGUI::Texture class for the Irrlicht engine. " alt="" coords="216,102,368,135"/>
+</map>

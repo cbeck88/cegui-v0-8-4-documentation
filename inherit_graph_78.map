@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; WindowFactory \&gt;" alt="" coords="5,5,171,59"/>
+<area shape="rect" id="node3" href="$classCEGUI_1_1WindowFactory.html" title="Abstract class that defines the required interface for all WindowFactory objects. ..." alt="" coords="220,15,383,49"/>
+<area shape="rect" id="node5" href="$classCEGUI_1_1TplWindowFactory.html" title="Template based WindowFactory that can be used to automatically generate a WindowFactory given a Windo..." alt="" coords="433,15,647,49"/>
+</map>

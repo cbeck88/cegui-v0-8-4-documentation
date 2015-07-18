@@ -1,0 +1,5 @@
+<map id="CEGUI::Spinner" name="CEGUI::Spinner">
+<area shape="rect" id="node2" href="$classCEGUI_1_1Window.html" title="An abstract base class providing common functionality and specifying the required interface for deriv..." alt="" coords="140,670,260,703"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1NamedElement.html" title="Adds name to the Element class, including name path traversal. " alt="" coords="411,253,573,286"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1String.html" title="String class used within the GUI system. " alt="" coords="147,6,253,39"/>
+</map>

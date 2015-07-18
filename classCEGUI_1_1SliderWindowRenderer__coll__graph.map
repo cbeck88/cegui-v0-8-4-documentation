@@ -1,0 +1,5 @@
+<map id="CEGUI::SliderWindowRenderer" name="CEGUI::SliderWindowRenderer">
+<area shape="rect" id="node2" href="$classCEGUI_1_1WindowRenderer.html" title="Base&#45;class for the assignable WindowRenderer object. " alt="" coords="81,153,255,186"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; WindowRenderer \&gt;" alt="" coords="5,6,171,61"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1String.html" title="String class used within the GUI system. " alt="" coords="195,17,301,50"/>
+</map>

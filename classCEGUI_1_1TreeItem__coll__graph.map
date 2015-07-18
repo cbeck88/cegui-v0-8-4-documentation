@@ -1,0 +1,5 @@
+<map id="CEGUI::TreeItem" name="CEGUI::TreeItem">
+<area shape="rect" id="node2" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; TreeItem \&gt;" alt="" coords="5,6,171,61"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1Rect.html" title="CEGUI::Rect\&lt; float \&gt;" alt="" coords="195,17,344,50"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1RenderedString.html" title="Class representing a rendered string of entities. " alt="" coords="368,17,531,50"/>
+</map>

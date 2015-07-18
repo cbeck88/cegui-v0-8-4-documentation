@@ -1,0 +1,5 @@
+<map id="CEGUI::ImagePropertyDim" name="CEGUI::ImagePropertyDim">
+<area shape="rect" id="node2" href="$classCEGUI_1_1ImageDimBase.html" title="Dimension type that represents some dimension of an Image. Implements BaseDim interface. " alt="" coords="5,91,168,125"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1BaseDim.html" title="Abstract interface for a generic &#39;dimension&#39; class. " alt="" coords="24,6,149,39"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1String.html" title="String class used within the GUI system. " alt="" coords="192,91,299,125"/>
+</map>

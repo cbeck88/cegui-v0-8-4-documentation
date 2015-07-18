@@ -1,0 +1,4 @@
+<map id="CEGUI::FactoryRegisterer" name="CEGUI::FactoryRegisterer">
+<area shape="rect" id="node5" href="$classCEGUI_1_1TplWindowFactoryRegisterer.html" title="Template based implementation of FactoryRegisterer that allows easy registration of a factory for any..." alt="" coords="5,193,280,226"/>
+<area shape="rect" id="node2" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; FactoryRegisterer \&gt;" alt="" coords="60,6,225,61"/>
+</map>

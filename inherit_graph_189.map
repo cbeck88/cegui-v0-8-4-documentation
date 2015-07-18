@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; WindowFactoryManager \&gt;" alt="" coords="5,5,192,59"/>
+<area shape="rect" id="node3" href="$classCEGUI_1_1WindowFactoryManager.html" title="Class that manages WindowFactory objects. " alt="" coords="241,54,455,87"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1Singleton.html" title="CEGUI::Singleton\&lt; Window\lFactoryManager \&gt;" alt="" coords="5,82,192,137"/>
+</map>

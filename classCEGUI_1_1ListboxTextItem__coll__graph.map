@@ -1,0 +1,5 @@
+<map id="CEGUI::ListboxTextItem" name="CEGUI::ListboxTextItem">
+<area shape="rect" id="node2" href="$classCEGUI_1_1ListboxItem.html" title="Base class for list box items. " alt="" coords="5,6,147,39"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1RenderedString.html" title="Class representing a rendered string of entities. " alt="" coords="171,6,333,39"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1Font.html" title="Class that encapsulates a typeface. " alt="" coords="357,6,456,39"/>
+</map>

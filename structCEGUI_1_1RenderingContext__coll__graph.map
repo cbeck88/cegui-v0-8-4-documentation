@@ -1,0 +1,5 @@
+<map id="CEGUI::RenderingContext" name="CEGUI::RenderingContext">
+<area shape="rect" id="node2" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; RenderingContext \&gt;" alt="" coords="5,6,171,61"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1Vector2.html" title="CEGUI::Vector2\&lt; float \&gt;" alt="" coords="195,17,360,50"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1Window.html" title="An abstract base class providing common functionality and specifying the required interface for deriv..." alt="" coords="384,17,504,50"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CEGUI::FalagardItemListbox" name="CEGUI::FalagardItemListbox">
+<area shape="rect" id="node2" href="$classCEGUI_1_1ItemListBaseWindowRenderer.html" title="Base class for ItemListBase window renderer. " alt="" coords="96,235,293,290"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1WindowRenderer.html" title="Base&#45;class for the assignable WindowRenderer object. " alt="" coords="99,131,272,165"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1String.html" title="String class used within the GUI system. " alt="" coords="48,6,155,39"/>
+</map>

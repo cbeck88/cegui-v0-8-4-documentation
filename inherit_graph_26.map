@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; Interpolator \&gt;" alt="" coords="5,22,171,77"/>
+<area shape="rect" id="node3" href="$classCEGUI_1_1Interpolator.html" title="Defines a &#39;interpolator&#39; class. " alt="" coords="219,33,357,66"/>
+<area shape="rect" id="node5" href="$classCEGUI_1_1QuaternionSlerpInterpolator.html" title="Special interpolator class for Quaternion. " alt="" coords="407,5,636,38"/>
+<area shape="rect" id="node7" href="$classCEGUI_1_1TplInterpolatorBase.html" title="CEGUI::TplInterpolatorBase" alt="" coords="428,61,615,94"/>
+<area shape="rect" id="node9" href="$classCEGUI_1_1TplDiscreteInterpolator.html" title="Generic discrete interpolator class. " alt="" coords="685,33,923,66"/>
+<area shape="rect" id="node13" href="$classCEGUI_1_1TplLinearInterpolator.html" title="Generic linear interpolator class. " alt="" coords="693,89,915,122"/>
+<area shape="rect" id="node11" href="$classCEGUI_1_1TplDiscreteRelativeInterpolator.html" title="Generic discrete relative interpolator class. " alt="" coords="972,22,1159,77"/>
+</map>

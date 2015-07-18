@@ -1,0 +1,4 @@
+<map id="CEGUI::ToggleButton" name="CEGUI::ToggleButton">
+<area shape="rect" id="node5" href="$classCEGUI_1_1RadioButton.html" title="Base class to provide the logic for Radio Button widgets. " alt="" coords="8,171,152,205"/>
+<area shape="rect" id="node2" href="$classCEGUI_1_1ButtonBase.html" title="Base class for all the &#39;button&#39; type widgets (push button, radio button, check&#45;box, etc) " alt="" coords="9,6,151,39"/>
+</map>

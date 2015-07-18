@@ -1,0 +1,5 @@
+<map id="CEGUI::WindowManager" name="CEGUI::WindowManager">
+<area shape="rect" id="node2" href="$classCEGUI_1_1Singleton.html" title="CEGUI::Singleton\&lt; Window\lManager \&gt;" alt="" coords="525,27,712,82"/>
+<area shape="rect" id="node5" href="$classCEGUI_1_1EventSet.html" title="Class that collects together a set of Event objects. " alt="" coords="25,5,151,38"/>
+<area shape="rect" id="node7" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; WindowManager \&gt;" alt="" coords="5,61,171,115"/>
+</map>

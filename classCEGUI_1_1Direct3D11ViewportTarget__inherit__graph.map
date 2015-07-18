@@ -1,0 +1,4 @@
+<map id="CEGUI::Direct3D11ViewportTarget" name="CEGUI::Direct3D11ViewportTarget">
+<area shape="rect" id="node2" href="$classCEGUI_1_1Direct3D11RenderTarget.html" title="CEGUI::Direct3D11RenderTarget\&lt;\&gt;" alt="" coords="5,89,237,122"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1RenderTarget.html" title="Defines interface to some surface that can be rendered to. Concrete instances of objects that impleme..." alt="" coords="47,6,196,39"/>
+</map>

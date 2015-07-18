@@ -1,0 +1,5 @@
+<map id="CEGUI::ExpatParser" name="CEGUI::ExpatParser">
+<area shape="rect" id="node2" href="$classCEGUI_1_1XMLParser.html" title="This is an abstract class that is used by CEGUI to interface with XML parser libraries. " alt="" coords="95,110,233,143"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1PropertySet.html" title="Class that contains a collection of Property objects. " alt="" coords="5,17,147,50"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; XMLParser \&gt;" alt="" coords="171,6,336,61"/>
+</map>

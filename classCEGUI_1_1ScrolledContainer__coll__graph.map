@@ -1,0 +1,5 @@
+<map id="CEGUI::ScrolledContainer" name="CEGUI::ScrolledContainer">
+<area shape="rect" id="node2" href="$classCEGUI_1_1Window.html" title="An abstract base class providing common functionality and specifying the required interface for deriv..." alt="" coords="167,349,287,382"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1Rect.html" title="CEGUI::Rect\&lt; float \&gt;" alt="" coords="5,6,155,39"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1String.html" title="String class used within the GUI system. " alt="" coords="197,6,304,39"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CEGUI::ColourPickerControls" name="CEGUI::ColourPickerControls">
+<area shape="rect" id="node2" href="$classCEGUI_1_1Window.html" title="An abstract base class providing common functionality and specifying the required interface for deriv..." alt="" coords="5,6,125,39"/>
+<area shape="rect" id="node5" href="$classCEGUI_1_1RegexMatcher.html" title="Interface for Regex matching support classes. " alt="" coords="255,6,412,39"/>
+<area shape="rect" id="node7" href="$classCEGUI_1_1HSV__Colour.html" title="CEGUI::HSV_Colour" alt="" coords="436,6,580,39"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CEGUI::DragDropEventArgs" name="CEGUI::DragDropEventArgs">
+<area shape="rect" id="node2" href="$classCEGUI_1_1WindowEventArgs.html" title="EventArgs based class that is used for objects passed to handlers triggered for events concerning som..." alt="" coords="5,91,187,125"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1EventArgs.html" title="Base class used as the argument to all subscribers Event object. " alt="" coords="29,6,163,39"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1DragContainer.html" title="Generic drag &amp; drop enabled window class. " alt="" coords="211,91,368,125"/>
+</map>

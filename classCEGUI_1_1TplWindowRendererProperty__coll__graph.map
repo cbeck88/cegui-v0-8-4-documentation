@@ -1,0 +1,5 @@
+<map id="CEGUI::TplWindowRendererProperty&lt; C, T &gt;" name="CEGUI::TplWindowRendererProperty&lt; C, T &gt;">
+<area shape="rect" id="node2" href="$classCEGUI_1_1TplProperty.html" title="CEGUI::TplProperty\l\&lt; C, T \&gt;" alt="" coords="129,131,268,186"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1TypedProperty.html" title="base class for properties able to do native set/get " alt="" coords="5,17,195,50"/>
+<area shape="rect" id="node6" href="$structCEGUI_1_1TplProperty_1_1GetterFunctor.html" title="CEGUI::TplProperty\l\&lt; C, T \&gt;::GetterFunctor" alt="" coords="219,6,379,61"/>
+</map>

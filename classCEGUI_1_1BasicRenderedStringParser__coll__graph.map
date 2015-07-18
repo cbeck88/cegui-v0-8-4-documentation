@@ -1,0 +1,5 @@
+<map id="CEGUI::BasicRenderedStringParser" name="CEGUI::BasicRenderedStringParser">
+<area shape="rect" id="node2" href="$classCEGUI_1_1RenderedStringParser.html" title="Specifies interface for classes that parse text into RenderedString objects. " alt="" coords="5,6,205,39"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1Rect.html" title="CEGUI::Rect\&lt; float \&gt;" alt="" coords="229,6,379,39"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1ColourRect.html" title="Class that holds details of colours for the four corners of a rectangle. " alt="" coords="403,6,541,39"/>
+</map>

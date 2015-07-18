@@ -1,0 +1,5 @@
+<map id="CEGUI::UBox" name="CEGUI::UBox">
+<area shape="rect" id="node2" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; UBox \&gt;" alt="" coords="5,113,171,167"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1UDim.html" title="Dimension that has both a relative &#39;scale&#39; portion and and absolute &#39;offset&#39; portion. " alt="" coords="195,123,301,157"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; UDim \&gt;" alt="" coords="165,6,331,61"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="CEGUI::OgreTextureTarget" name="CEGUI::OgreTextureTarget">
+<area shape="rect" id="node2" href="$classCEGUI_1_1OgreRenderTarget.html" title="CEGUI::OgreRenderTarget\l\&lt; TextureTarget \&gt;" alt="" coords="5,89,184,143"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1TextureTarget.html" title="Specialisation of RenderTarget interface that should be used as the base class for RenderTargets that..." alt="" coords="19,6,171,39"/>
+</map>

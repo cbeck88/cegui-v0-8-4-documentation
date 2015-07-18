@@ -1,0 +1,5 @@
+<map id="CEGUI::ListboxItem" name="CEGUI::ListboxItem">
+<area shape="rect" id="node2" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; ListboxItem \&gt;" alt="" coords="5,6,171,61"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1ColourRect.html" title="Class that holds details of colours for the four corners of a rectangle. " alt="" coords="195,17,333,50"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1String.html" title="String class used within the GUI system. " alt="" coords="357,17,464,50"/>
+</map>

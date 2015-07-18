@@ -1,0 +1,5 @@
+<map id="CEGUI::MultiLineEditbox" name="CEGUI::MultiLineEditbox">
+<area shape="rect" id="node2" href="$classCEGUI_1_1Window.html" title="An abstract base class providing common functionality and specifying the required interface for deriv..." alt="" coords="282,423,402,457"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1String.html" title="String class used within the GUI system. " alt="" coords="51,6,158,39"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1Image.html" title="Interface for Image. " alt="" coords="418,6,527,39"/>
+</map>

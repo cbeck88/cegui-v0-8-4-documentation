@@ -1,0 +1,130 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; Element \&gt;" alt="" coords="245,1533,411,1587"/>
+<area shape="rect" id="node3" href="$classCEGUI_1_1Element.html" title="A positioned and sized rectangular node in a tree graph. " alt="" coords="515,1565,635,1598"/>
+<area shape="rect" id="node5" href="$classCEGUI_1_1NamedElement.html" title="Adds name to the Element class, including name path traversal. " alt="" coords="765,1179,928,1213"/>
+<area shape="rect" id="node7" href="$classCEGUI_1_1Window.html" title="An abstract base class providing common functionality and specifying the required interface for deriv..." alt="" coords="1072,873,1192,906"/>
+<area shape="rect" id="node9" href="$classCEGUI_1_1ButtonBase.html" title="Base class for all the &#39;button&#39; type widgets (push button, radio button, check&#45;box, etc) " alt="" coords="1328,61,1469,94"/>
+<area shape="rect" id="node21" href="$classCEGUI_1_1ClippedContainer.html" title="Helper container window that has configurable clipping. Used by the ItemListbox widget. " alt="" coords="1312,117,1485,150"/>
+<area shape="rect" id="node23" href="$classCEGUI_1_1ColourPicker.html" title="Base class for the ColourPicker widget. " alt="" coords="1325,173,1472,206"/>
+<area shape="rect" id="node25" href="$classCEGUI_1_1ColourPickerControls.html" title="Base class for the ColourPickerControls widget. " alt="" coords="1300,229,1497,262"/>
+<area shape="rect" id="node27" href="$classCEGUI_1_1Combobox.html" title="Base class for the Combobox widget. " alt="" coords="1331,285,1467,318"/>
+<area shape="rect" id="node29" href="$classCEGUI_1_1DefaultWindow.html" title="Window class intended to be used as a simple, generic Window. " alt="" coords="1317,341,1480,374"/>
+<area shape="rect" id="node31" href="$classCEGUI_1_1DragContainer.html" title="Generic drag &amp; drop enabled window class. " alt="" coords="1320,397,1477,430"/>
+<area shape="rect" id="node33" href="$classCEGUI_1_1Editbox.html" title="Base class for an Editbox widget. " alt="" coords="1340,453,1457,486"/>
+<area shape="rect" id="node35" href="$classCEGUI_1_1FrameWindow.html" title="Abstract base class for a movable, sizable, window with a title&#45;bar and a frame. " alt="" coords="1320,509,1477,542"/>
+<area shape="rect" id="node37" href="$classCEGUI_1_1GroupBox.html" title="Base class for standard GroupBox widget. " alt="" coords="1333,565,1464,598"/>
+<area shape="rect" id="node39" href="$classCEGUI_1_1ItemEntry.html" title="Base class for item type widgets. " alt="" coords="1333,621,1464,654"/>
+<area shape="rect" id="node43" href="$classCEGUI_1_1ItemListBase.html" title="Base class for item list widgets. " alt="" coords="1324,677,1473,710"/>
+<area shape="rect" id="node55" href="$classCEGUI_1_1LayoutCell.html" title="Represents a cell in a layout container. " alt="" coords="1332,733,1465,766"/>
+<area shape="rect" id="node57" href="$classCEGUI_1_1LayoutContainer.html" title="An abstract base class providing common functionality and specifying the required interface for deriv..." alt="" coords="1315,789,1483,822"/>
+<area shape="rect" id="node67" href="$classCEGUI_1_1Listbox.html" title="Base class for standard Listbox widget. " alt="" coords="1341,845,1456,878"/>
+<area shape="rect" id="node71" href="$classCEGUI_1_1ListHeader.html" title="Base class for the multi column list header widget. " alt="" coords="1331,901,1467,934"/>
+<area shape="rect" id="node73" href="$classCEGUI_1_1ListHeaderSegment.html" title="Base class for list header segment window. " alt="" coords="1305,957,1492,990"/>
+<area shape="rect" id="node75" href="$classCEGUI_1_1MultiColumnList.html" title="Base class for the multi column list widget. " alt="" coords="1316,1013,1481,1046"/>
+<area shape="rect" id="node77" href="$classCEGUI_1_1MultiLineEditbox.html" title="Base class for the multi&#45;line edit box widget. " alt="" coords="1315,1069,1483,1102"/>
+<area shape="rect" id="node79" href="$classCEGUI_1_1ProgressBar.html" title="Base class for progress bars. " alt="" coords="1327,1125,1471,1158"/>
+<area shape="rect" id="node81" href="$classCEGUI_1_1ScrollablePane.html" title="Base class for the ScrollablePane widget. " alt="" coords="1319,1181,1479,1214"/>
+<area shape="rect" id="node83" href="$classCEGUI_1_1Scrollbar.html" title="Base scroll bar class. " alt="" coords="1337,1237,1460,1270"/>
+<area shape="rect" id="node85" href="$classCEGUI_1_1ScrolledContainer.html" title="Helper container window class which is used in the implementation of the ScrollablePane widget class..." alt="" coords="1311,1293,1487,1326"/>
+<area shape="rect" id="node87" href="$classCEGUI_1_1Slider.html" title="Base class for Slider widgets. " alt="" coords="1345,1349,1452,1382"/>
+<area shape="rect" id="node89" href="$classCEGUI_1_1Spinner.html" title="Base class for the Spinner widget. " alt="" coords="1340,1405,1457,1438"/>
+<area shape="rect" id="node91" href="$classCEGUI_1_1TabControl.html" title="Base class for standard Tab Control widget. " alt="" coords="1331,1461,1467,1494"/>
+<area shape="rect" id="node93" href="$classCEGUI_1_1Titlebar.html" title="Class representing the title bar for Frame Windows. " alt="" coords="1341,1517,1456,1550"/>
+<area shape="rect" id="node95" href="$classCEGUI_1_1Tooltip.html" title="Base class for Tooltip widgets. " alt="" coords="1344,1573,1453,1606"/>
+<area shape="rect" id="node97" href="$classCEGUI_1_1Tree.html" title="Base class for standard Tree widget. " alt="" coords="1349,1629,1448,1662"/>
+<area shape="rect" id="node11" href="$classCEGUI_1_1PushButton.html" title="Base class to provide logic for push button type widgets. " alt="" coords="1596,5,1737,38"/>
+<area shape="rect" id="node15" href="$classCEGUI_1_1TabButton.html" title="Base class for TabButtons. A TabButton based class is used internally as the button that appears at t..." alt="" coords="1601,61,1732,94"/>
+<area shape="rect" id="node17" href="$classCEGUI_1_1ToggleButton.html" title="Class providing logic buttons that can have their selected state toggled. " alt="" coords="1592,117,1741,150"/>
+<area shape="rect" id="node13" href="$classCEGUI_1_1Thumb.html" title="Base class for Thumb widget. " alt="" coords="1887,5,1999,38"/>
+<area shape="rect" id="node19" href="$classCEGUI_1_1RadioButton.html" title="Base class to provide the logic for Radio Button widgets. " alt="" coords="1871,117,2015,150"/>
+<area shape="rect" id="node41" href="$classCEGUI_1_1MenuItem.html" title="Base class for menu items. " alt="" coords="1601,593,1732,626"/>
+<area shape="rect" id="node45" href="$classCEGUI_1_1MenuBase.html" title="Abstract base class for menus. " alt="" coords="1600,649,1733,682"/>
+<area shape="rect" id="node51" href="$classCEGUI_1_1ScrolledItemListBase.html" title="ScrolledItemListBase window class. " alt="" coords="1568,705,1765,738"/>
+<area shape="rect" id="node47" href="$classCEGUI_1_1Menubar.html" title="Base class for menu bars. " alt="" coords="1881,593,2004,626"/>
+<area shape="rect" id="node49" href="$classCEGUI_1_1PopupMenu.html" title="Base class for popup menus. " alt="" coords="1872,649,2013,682"/>
+<area shape="rect" id="node53" href="$classCEGUI_1_1ItemListbox.html" title="ItemListbox window class. " alt="" coords="1872,705,2013,738"/>
+<area shape="rect" id="node59" href="$classCEGUI_1_1GridLayoutContainer.html" title="A Layout Container window layouting it&#39;s children into a grid. " alt="" coords="1571,761,1763,794"/>
+<area shape="rect" id="node61" href="$classCEGUI_1_1SequentialLayoutContainer.html" title="An abstract base class providing common functionality and specifying the required interface for deriv..." alt="" coords="1552,817,1781,850"/>
+<area shape="rect" id="node63" href="$classCEGUI_1_1HorizontalLayoutContainer.html" title="A Layout Container window layouting it&#39;s children Horizontally. " alt="" coords="1829,789,2056,822"/>
+<area shape="rect" id="node65" href="$classCEGUI_1_1VerticalLayoutContainer.html" title="A Layout Container window layouting it&#39;s children vertically. " alt="" coords="1837,845,2048,878"/>
+<area shape="rect" id="node69" href="$classCEGUI_1_1ComboDropList.html" title="Base class for the combo box drop down list. This is a specialisation of the Listbox class..." alt="" coords="1585,873,1748,906"/>
+<area shape="rect" id="node98" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; Font \&gt;" alt="" coords="245,1666,411,1721"/>
+<area shape="rect" id="node100" href="$classCEGUI_1_1Font.html" title="Class that encapsulates a typeface. " alt="" coords="525,1626,624,1659"/>
+<area shape="rect" id="node102" href="$classCEGUI_1_1FreeTypeFont.html" title="Implementation of the Font class interface using the FreeType library. " alt="" coords="771,1570,923,1603"/>
+<area shape="rect" id="node104" href="$classCEGUI_1_1PixmapFont.html" title="Implementation of the Font class interface using static Imageset&#39;s. " alt="" coords="776,1626,917,1659"/>
+<area shape="rect" id="node105" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; FontManager \&gt;" alt="" coords="764,2783,929,2838"/>
+<area shape="rect" id="node107" href="$classCEGUI_1_1FontManager.html" title="Class providing a shared library of Font objects to the system. " alt="" coords="1057,2871,1207,2905"/>
+<area shape="rect" id="node108" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; GlobalEventSet \&gt;" alt="" coords="245,1821,411,1875"/>
+<area shape="rect" id="node110" href="$classCEGUI_1_1GlobalEventSet.html" title="The GlobalEventSet singleton allows you to subscribe to an event for all instances of a class..." alt="" coords="493,1897,656,1930"/>
+<area shape="rect" id="node111" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; MouseCursor \&gt;" alt="" coords="245,1975,411,2030"/>
+<area shape="rect" id="node113" href="$classCEGUI_1_1MouseCursor.html" title="Class that provides mouse cursor support. " alt="" coords="500,1953,649,1986"/>
+<area shape="rect" id="node114" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; RenderingSurface \&gt;" alt="" coords="245,2114,411,2169"/>
+<area shape="rect" id="node116" href="$classCEGUI_1_1RenderingSurface.html" title="Class that represents a surface that can have geometry based imagery drawn to it. ..." alt="" coords="487,2065,663,2098"/>
+<area shape="rect" id="node118" href="$classCEGUI_1_1GUIContext.html" title="CEGUI::GUIContext" alt="" coords="776,1991,917,2025"/>
+<area shape="rect" id="node120" href="$classCEGUI_1_1RenderingWindow.html" title="RenderingWindow is a RenderingSurface that can be &quot;drawn back&quot; onto another RenderingSurface and is p..." alt="" coords="757,2047,936,2081"/>
+<area shape="rect" id="node121" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; RenderTarget \&gt;" alt="" coords="245,2387,411,2442"/>
+<area shape="rect" id="node123" href="$classCEGUI_1_1RenderTarget.html" title="Defines interface to some surface that can be rendered to. Concrete instances of objects that impleme..." alt="" coords="500,2398,649,2431"/>
+<area shape="rect" id="node125" href="$classCEGUI_1_1DirectFBRenderTarget.html" title="Implementation of CEGUI::RenderTarget for DirectFB. " alt="" coords="745,2103,948,2137"/>
+<area shape="rect" id="node127" href="$classCEGUI_1_1TextureTarget.html" title="Specialisation of RenderTarget interface that should be used as the base class for RenderTargets that..." alt="" coords="771,2159,923,2193"/>
+<area shape="rect" id="node171" href="$classCEGUI_1_1Direct3D10RenderTarget.html" title="CEGUI::Direct3D10RenderTarget\&lt;\&gt;" alt="" coords="731,2314,963,2347"/>
+<area shape="rect" id="node175" href="$classCEGUI_1_1Direct3D11RenderTarget.html" title="CEGUI::Direct3D11RenderTarget\&lt;\&gt;" alt="" coords="731,2370,963,2403"/>
+<area shape="rect" id="node179" href="$classCEGUI_1_1Direct3D9RenderTarget.html" title="CEGUI::Direct3D9RenderTarget\&lt;\&gt;" alt="" coords="733,2426,960,2459"/>
+<area shape="rect" id="node183" href="$classCEGUI_1_1IrrlichtRenderTarget.html" title="CEGUI::IrrlichtRenderTarget\&lt;\&gt;" alt="" coords="745,2482,948,2515"/>
+<area shape="rect" id="node187" href="$classCEGUI_1_1OgreRenderTarget.html" title="CEGUI::OgreRenderTarget\&lt;\&gt;" alt="" coords="749,2538,944,2571"/>
+<area shape="rect" id="node191" href="$classCEGUI_1_1OpenGLESRenderTarget.html" title="CEGUI::OpenGLESRenderTarget\&lt;\&gt;" alt="" coords="731,2594,963,2627"/>
+<area shape="rect" id="node195" href="$classCEGUI_1_1OpenGLRenderTarget.html" title="CEGUI::OpenGLRenderTarget\&lt;\&gt;" alt="" coords="740,2650,953,2683"/>
+<area shape="rect" id="node129" href="$classCEGUI_1_1Direct3D10RenderTarget.html" title="CEGUI::Direct3D10RenderTarget\l\&lt; TextureTarget \&gt;" alt="" coords="1024,1685,1240,1739"/>
+<area shape="rect" id="node133" href="$classCEGUI_1_1Direct3D11RenderTarget.html" title="CEGUI::Direct3D11RenderTarget\l\&lt; TextureTarget \&gt;" alt="" coords="1024,1762,1240,1817"/>
+<area shape="rect" id="node137" href="$classCEGUI_1_1Direct3D9RenderTarget.html" title="CEGUI::Direct3D9RenderTarget\l\&lt; TextureTarget \&gt;" alt="" coords="1027,1839,1237,1894"/>
+<area shape="rect" id="node141" href="$classCEGUI_1_1IrrlichtRenderTarget.html" title="CEGUI::IrrlichtRenderTarget\l\&lt; TextureTarget \&gt;" alt="" coords="1039,1917,1225,1971"/>
+<area shape="rect" id="node145" href="$classCEGUI_1_1NullRenderTarget.html" title="CEGUI::NullRenderTarget\l\&lt; TextureTarget \&gt;" alt="" coords="1045,1994,1219,2049"/>
+<area shape="rect" id="node149" href="$classCEGUI_1_1OgreRenderTarget.html" title="CEGUI::OgreRenderTarget\l\&lt; TextureTarget \&gt;" alt="" coords="1043,2071,1221,2126"/>
+<area shape="rect" id="node153" href="$classCEGUI_1_1OpenGLESRenderTarget.html" title="CEGUI::OpenGLESRenderTarget\l\&lt; TextureTarget \&gt;" alt="" coords="1024,2149,1240,2203"/>
+<area shape="rect" id="node157" href="$classCEGUI_1_1OpenGLRenderTarget.html" title="CEGUI::OpenGLRenderTarget\l\&lt; TextureTarget \&gt;" alt="" coords="1033,2226,1231,2281"/>
+<area shape="rect" id="node131" href="$classCEGUI_1_1Direct3D10TextureTarget.html" title="Direct3D10TextureTarget &#45; allows rendering to Direct3D 10 textures. " alt="" coords="1308,1685,1489,1739"/>
+<area shape="rect" id="node135" href="$classCEGUI_1_1Direct3D11TextureTarget.html" title="Direct3D11TextureTarget &#45; allows rendering to Direct3D 10 textures. " alt="" coords="1308,1762,1489,1817"/>
+<area shape="rect" id="node139" href="$classCEGUI_1_1Direct3D9TextureTarget.html" title="Direct3D9TextureTarget &#45; allows rendering to an Direct3D9 texture via . " alt="" coords="1293,1850,1504,1883"/>
+<area shape="rect" id="node143" href="$classCEGUI_1_1IrrlichtTextureTarget.html" title="CEGUI::TextureTarget implementation for the Irrlicht engine. " alt="" coords="1305,1927,1492,1961"/>
+<area shape="rect" id="node147" href="$classCEGUI_1_1NullTextureTarget.html" title="CEGUI::TextureTarget implementation for the Null engine. " alt="" coords="1312,2005,1485,2038"/>
+<area shape="rect" id="node151" href="$classCEGUI_1_1OgreTextureTarget.html" title="CEGUI::TextureTarget implementation for the Ogre engine. " alt="" coords="1309,2082,1488,2115"/>
+<area shape="rect" id="node155" href="$classCEGUI_1_1OpenGLESFBOTextureTarget.html" title="OpenGLESFBOTextureTarget &#45; allows rendering to an OpenGLES texture via FBO. " alt="" coords="1295,2149,1503,2203"/>
+<area shape="rect" id="node159" href="$classCEGUI_1_1OpenGLTextureTarget.html" title="OpenGLTextureTarget &#45; Common base class for all OpenGL render targets based on some form of RTT suppo..." alt="" coords="1300,2237,1497,2270"/>
+<area shape="rect" id="node161" href="$classCEGUI_1_1OpenGL3FBOTextureTarget.html" title="~OpenGL3FBOTextureTarget &#45; allows rendering to an OpenGL texture via FBO. " alt="" coords="1568,2082,1765,2137"/>
+<area shape="rect" id="node163" href="$classCEGUI_1_1OpenGLApplePBTextureTarget.html" title="OpenGLApplePBTextureTarget &#45; allows rendering to an OpenGL texture via the Apple pbuffer extension..." alt="" coords="1560,2159,1773,2214"/>
+<area shape="rect" id="node165" href="$classCEGUI_1_1OpenGLFBOTextureTarget.html" title="OpenGLFBOTextureTarget &#45; allows rendering to an OpenGL texture via FBO. " alt="" coords="1553,2237,1780,2270"/>
+<area shape="rect" id="node167" href="$classCEGUI_1_1OpenGLGLXPBTextureTarget.html" title="OpenGLGLXPBTextureTarget &#45; allows rendering to an OpenGL texture via the pbuffer provided in GLX 1..." alt="" coords="1564,2293,1769,2347"/>
+<area shape="rect" id="node169" href="$classCEGUI_1_1OpenGLWGLPBTextureTarget.html" title="OpenGLWGLPBTextureTarget &#45; allows rendering to an OpenGL texture via the pbuffer WGL extension..." alt="" coords="1561,2370,1772,2425"/>
+<area shape="rect" id="node173" href="$classCEGUI_1_1Direct3D10ViewportTarget.html" title="Direct3D10 based RenderTarget that represents the screen or a portion of it. " alt="" coords="1037,2303,1227,2358"/>
+<area shape="rect" id="node177" href="$classCEGUI_1_1Direct3D11ViewportTarget.html" title="Direct3D10 based RenderTarget that represents the screen or a portion of it. " alt="" coords="1037,2381,1227,2435"/>
+<area shape="rect" id="node181" href="$classCEGUI_1_1Direct3D9ViewportTarget.html" title="Direct3D9 RenderTarget that represents a screen viewport. " alt="" coords="1041,2458,1223,2513"/>
+<area shape="rect" id="node185" href="$classCEGUI_1_1IrrlichtWindowTarget.html" title="CEGUI::RenderTarget that targets a window, or a part of a window. " alt="" coords="1036,2535,1228,2569"/>
+<area shape="rect" id="node189" href="$classCEGUI_1_1OgreWindowTarget.html" title="CEGUI::RenderTarget that targets an existing gre::RenderTarget. " alt="" coords="1040,2591,1224,2625"/>
+<area shape="rect" id="node193" href="$classCEGUI_1_1OpenGLESViewportTarget.html" title="OpenGLES implementation of a RenderTarget that represents am on&#45;scren viewport. " alt="" coords="1020,2647,1244,2681"/>
+<area shape="rect" id="node197" href="$classCEGUI_1_1OpenGLViewportTarget.html" title="OpenGL implementation of a RenderTarget that represents am on&#45;scren viewport. " alt="" coords="1029,2703,1235,2737"/>
+<area shape="rect" id="node198" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; SchemeManager \&gt;" alt="" coords="764,2994,929,3049"/>
+<area shape="rect" id="node200" href="$classCEGUI_1_1SchemeManager.html" title="A class that manages the creation of, access to, and destruction of GUI Scheme objects. " alt="" coords="1047,3082,1217,3115"/>
+<area shape="rect" id="node201" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; System \&gt;" alt="" coords="245,2581,411,2635"/>
+<area shape="rect" id="node203" href="$classCEGUI_1_1System.html" title="The System class is the CEGUI class that provides access to all other elements in this system..." alt="" coords="516,2658,633,2691"/>
+<area shape="rect" id="node204" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; WindowManager \&gt;" alt="" coords="245,2714,411,2769"/>
+<area shape="rect" id="node206" href="$classCEGUI_1_1WindowManager.html" title="The WindowManager class describes an object that manages creation and lifetime of Window objects..." alt="" coords="489,2725,660,2758"/>
+<area shape="rect" id="node207" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; XMLParser \&gt;" alt="" coords="245,1743,411,1798"/>
+<area shape="rect" id="node209" href="$classCEGUI_1_1XMLParser.html" title="This is an abstract class that is used by CEGUI to interface with XML parser libraries. " alt="" coords="505,1754,644,1787"/>
+<area shape="rect" id="node211" href="$classCEGUI_1_1ExpatParser.html" title="Implementation of XMLParser using Expat. " alt="" coords="775,1682,919,1715"/>
+<area shape="rect" id="node213" href="$classCEGUI_1_1LibxmlParser.html" title="Implementation of XMLParser using libxml. " alt="" coords="772,1738,921,1771"/>
+<area shape="rect" id="node215" href="$classCEGUI_1_1RapidXMLParser.html" title="Implementation of XMLParser using RapidXML. " alt="" coords="761,1794,932,1827"/>
+<area shape="rect" id="node217" href="$classCEGUI_1_1TinyXMLParser.html" title="Implementation of XMLParser using TinyXML. " alt="" coords="765,1850,928,1883"/>
+<area shape="rect" id="node219" href="$classCEGUI_1_1XercesParser.html" title="Implementation of XMLParser using Xerces&#45;C++. " alt="" coords="771,1906,923,1939"/>
+<area shape="rect" id="node220" href="$classCEGUI_1_1EventSet.html" title="Class that collects together a set of Event objects. " alt="" coords="265,2058,391,2091"/>
+<area shape="rect" id="node228" href="$classCEGUI_1_1ResourceEventSet.html" title="implementation class to gather EventSet parts for all template instances. " alt="" coords="484,2602,665,2635"/>
+<area shape="rect" id="node230" href="$classCEGUI_1_1NamedXMLResourceManager.html" title="Templatised manager class that loads and manages named XML based resources. " alt="" coords="723,2706,971,2761"/>
+<area shape="rect" id="node232" href="$classCEGUI_1_1NamedXMLResourceManager.html" title="CEGUI::NamedXMLResourceManager\l\&lt; Font, Font_xmlHandler \&gt;" alt="" coords="723,2861,971,2915"/>
+<area shape="rect" id="node235" href="$classCEGUI_1_1NamedXMLResourceManager.html" title="CEGUI::NamedXMLResourceManager\l\&lt; Scheme, Scheme_xmlHandler \&gt;" alt="" coords="723,3071,971,3126"/>
+<area shape="rect" id="node239" href="$classCEGUI_1_1InjectedInputReceiver.html" title="Input injection interface to be inplemented by classes that take raw inputs. " alt="" coords="475,2009,675,2042"/>
+<area shape="rect" id="node241" href="$classCEGUI_1_1PropertyReceiver.html" title="Dummy base class to ensure correct casting of receivers. " alt="" coords="7,1610,180,1643"/>
+<area shape="rect" id="node243" href="$classCEGUI_1_1PropertySet.html" title="Class that contains a collection of Property objects. " alt="" coords="257,1610,399,1643"/>
+<area shape="rect" id="node247" href="$classCEGUI_1_1Singleton.html" title="CEGUI::Singleton\&lt; FontManager \&gt;" alt="" coords="733,2938,960,2971"/>
+<area shape="rect" id="node249" href="$classCEGUI_1_1Singleton.html" title="CEGUI::Singleton\&lt; Global\lEventSet \&gt;" alt="" coords="240,1898,416,1953"/>
+<area shape="rect" id="node251" href="$classCEGUI_1_1Singleton.html" title="CEGUI::Singleton\&lt; Scheme\lManager \&gt;" alt="" coords="753,3149,940,3203"/>
+<area shape="rect" id="node253" href="$classCEGUI_1_1Singleton.html" title="CEGUI::Singleton\&lt; System \&gt;" alt="" coords="231,2658,425,2691"/>
+<area shape="rect" id="node255" href="$classCEGUI_1_1Singleton.html" title="CEGUI::Singleton\&lt; Window\lManager \&gt;" alt="" coords="235,2791,421,2846"/>
+</map>

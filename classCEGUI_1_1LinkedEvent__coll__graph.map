@@ -1,0 +1,5 @@
+<map id="CEGUI::LinkedEvent" name="CEGUI::LinkedEvent">
+<area shape="rect" id="node2" href="$classCEGUI_1_1Event.html" title="Defines an &#39;event&#39; which can be subscribed to by interested parties. " alt="" coords="35,113,141,146"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; Event \&gt;" alt="" coords="5,6,171,61"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1EventSet.html" title="Class that collects together a set of Event objects. " alt="" coords="165,113,291,146"/>
+</map>

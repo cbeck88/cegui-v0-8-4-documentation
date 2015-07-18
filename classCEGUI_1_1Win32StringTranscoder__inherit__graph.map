@@ -1,0 +1,4 @@
+<map id="CEGUI::Win32StringTranscoder" name="CEGUI::Win32StringTranscoder">
+<area shape="rect" id="node2" href="$classCEGUI_1_1StringTranscoder.html" title="Interface for a string transcoding utility. Instances of classes that implement this interface can be..." alt="" coords="24,110,195,143"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; StringTranscoder \&gt;" alt="" coords="27,6,192,61"/>
+</map>

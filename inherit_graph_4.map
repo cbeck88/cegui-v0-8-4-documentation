@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; BaseDim \&gt;" alt="" coords="5,162,171,217"/>
+<area shape="rect" id="node3" href="$classCEGUI_1_1BaseDim.html" title="Abstract interface for a generic &#39;dimension&#39; class. " alt="" coords="220,173,345,206"/>
+<area shape="rect" id="node5" href="$classCEGUI_1_1AbsoluteDim.html" title="Dimension type that represents an absolute pixel value. Implements BaseDim interface. " alt="" coords="403,5,549,38"/>
+<area shape="rect" id="node7" href="$classCEGUI_1_1FontDim.html" title="Dimension type that represents some metric of a Font. Implements BaseDim interface. " alt="" coords="415,61,537,94"/>
+<area shape="rect" id="node9" href="$classCEGUI_1_1ImageDimBase.html" title="Dimension type that represents some dimension of an Image. Implements BaseDim interface. " alt="" coords="395,117,557,150"/>
+<area shape="rect" id="node15" href="$classCEGUI_1_1OperatorDim.html" title="Dimension type that represents the result of an operation performed on two other dimension values..." alt="" coords="403,173,549,206"/>
+<area shape="rect" id="node17" href="$classCEGUI_1_1PropertyDim.html" title="Dimension type that represents the value of a Window property. Implements BaseDim interface..." alt="" coords="403,229,549,262"/>
+<area shape="rect" id="node19" href="$classCEGUI_1_1UnifiedDim.html" title="Dimension type that represents an Unified dimension. Implements BaseDim interface. " alt="" coords="407,285,545,318"/>
+<area shape="rect" id="node21" href="$classCEGUI_1_1WidgetDim.html" title="Dimension type that represents some dimension of a Window/widget. Implements BaseDim interface..." alt="" coords="407,341,545,374"/>
+<area shape="rect" id="node11" href="$classCEGUI_1_1ImageDim.html" title="ImageDimBase subclass that accesses an image by its name. " alt="" coords="631,89,764,122"/>
+<area shape="rect" id="node13" href="$classCEGUI_1_1ImagePropertyDim.html" title="ImageDimBase subclass that accesses an image fetched via a property. " alt="" coords="607,145,788,178"/>
+</map>

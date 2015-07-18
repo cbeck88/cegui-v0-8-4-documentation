@@ -1,0 +1,5 @@
+<map id="CEGUI::LayoutCell" name="CEGUI::LayoutCell">
+<area shape="rect" id="node2" href="$classCEGUI_1_1Window.html" title="An abstract base class providing common functionality and specifying the required interface for deriv..." alt="" coords="101,478,221,511"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1NamedElement.html" title="Adds name to the Element class, including name path traversal. " alt="" coords="372,253,535,286"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1String.html" title="String class used within the GUI system. " alt="" coords="108,6,215,39"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; ImageFactory \&gt;" alt="" coords="5,5,171,59"/>
+<area shape="rect" id="node3" href="$classCEGUI_1_1ImageFactory.html" title="Interface for factory objects that create instances of classes derived from the Image class..." alt="" coords="220,15,372,49"/>
+<area shape="rect" id="node5" href="$classCEGUI_1_1TplImageFactory.html" title="Templatised ImageFactory subclass used internally by the system. " alt="" coords="421,15,624,49"/>
+</map>

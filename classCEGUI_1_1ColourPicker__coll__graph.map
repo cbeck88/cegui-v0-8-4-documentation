@@ -1,0 +1,5 @@
+<map id="CEGUI::ColourPicker" name="CEGUI::ColourPicker">
+<area shape="rect" id="node7" href="$classCEGUI_1_1ColourPickerControls.html" title="Base class for the ColourPickerControls widget. " alt="" coords="263,838,461,871"/>
+<area shape="rect" id="node2" href="$classCEGUI_1_1Window.html" title="An abstract base class providing common functionality and specifying the required interface for deriv..." alt="" coords="307,370,427,403"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1String.html" title="String class used within the GUI system. " alt="" coords="314,6,421,39"/>
+</map>

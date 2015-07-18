@@ -1,0 +1,5 @@
+<map id="CEGUI::Direct3D9GeometryBuffer" name="CEGUI::Direct3D9GeometryBuffer">
+<area shape="rect" id="node2" href="$classCEGUI_1_1GeometryBuffer.html" title="Abstract class defining the interface for objects that buffer geometry for later rendering. " alt="" coords="5,6,168,39"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1Rect.html" title="CEGUI::Rect\&lt; float \&gt;" alt="" coords="192,6,341,39"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1Direct3D9Renderer.html" title="Renderer class to interface with Direct3D 9. " alt="" coords="365,6,549,39"/>
+</map>

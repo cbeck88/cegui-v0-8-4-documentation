@@ -1,0 +1,4 @@
+<map id="CEGUI::OpenGLFBOTextureTarget" name="CEGUI::OpenGLFBOTextureTarget">
+<area shape="rect" id="node2" href="$classCEGUI_1_1OpenGLTextureTarget.html" title="OpenGLTextureTarget &#45; Common base class for all OpenGL render targets based on some form of RTT suppo..." alt="" coords="20,110,217,143"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1OpenGLRenderTarget.html" title="CEGUI::OpenGLRenderTarget\l\&lt; TextureTarget \&gt;" alt="" coords="20,6,217,61"/>
+</map>

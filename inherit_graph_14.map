@@ -1,0 +1,25 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; EventArgs \&gt;" alt="" coords="5,302,171,357"/>
+<area shape="rect" id="node3" href="$classCEGUI_1_1EventArgs.html" title="Base class used as the argument to all subscribers Event object. " alt="" coords="220,313,353,346"/>
+<area shape="rect" id="node5" href="$classCEGUI_1_1AnimationEventArgs.html" title="EventArgs based class that holds information about which animation instnace fired given event..." alt="" coords="419,5,611,38"/>
+<area shape="rect" id="node7" href="$classCEGUI_1_1DisplayEventArgs.html" title="EventArgs based class that is used for notifications regarding the main display. " alt="" coords="425,61,604,94"/>
+<area shape="rect" id="node9" href="$classCEGUI_1_1ElementEventArgs.html" title="EventArgs based class that is used for objects passed to handlers triggered for events concerning som..." alt="" coords="424,117,605,150"/>
+<area shape="rect" id="node11" href="$classCEGUI_1_1FontEventArgs.html" title="EventArgs based class that is used for notifications regarding Font objects. " alt="" coords="435,173,595,206"/>
+<area shape="rect" id="node13" href="$classCEGUI_1_1GUIContextEventArgs.html" title="EventArgs class passed to subscribers for (most) GUIContext events. " alt="" coords="413,229,616,262"/>
+<area shape="rect" id="node17" href="$classCEGUI_1_1LinkedEventArgs.html" title="EventArgs subclass used for linked events, that is an event fired on an EventSet that was triggered b..." alt="" coords="429,285,600,318"/>
+<area shape="rect" id="node19" href="$classCEGUI_1_1MouseCursorEventArgs.html" title="EventArgs based class that is used for objects passed to input event handlers concerning mouse cursor..." alt="" coords="409,341,620,374"/>
+<area shape="rect" id="node21" href="$classCEGUI_1_1NamedElementEventArgs.html" title="EventArgs based class that is used for objects passed to handlers triggered for events concerning som..." alt="" coords="403,397,627,430"/>
+<area shape="rect" id="node23" href="$classCEGUI_1_1RenderQueueEventArgs.html" title="EventArgs based class that is passed to handlers subcribed to hear about begin/end events on renderin..." alt="" coords="408,453,621,486"/>
+<area shape="rect" id="node25" href="$classCEGUI_1_1RenderTargetEventArgs.html" title="EventArgs class passed to subscribers of RenderTarget events. " alt="" coords="409,509,620,542"/>
+<area shape="rect" id="node27" href="$classCEGUI_1_1ResourceEventArgs.html" title="EventArgs based class that is used for notifications regarding resources. " alt="" coords="420,565,609,598"/>
+<area shape="rect" id="node29" href="$classCEGUI_1_1WindowEventArgs.html" title="EventArgs based class that is used for objects passed to handlers triggered for events concerning som..." alt="" coords="424,621,605,654"/>
+<area shape="rect" id="node15" href="$classCEGUI_1_1GUIContextRenderTargetEventArgs.html" title="EventArgs class passed for GUIContext RenderTarget related events. " alt="" coords="684,218,905,273"/>
+<area shape="rect" id="node31" href="$classCEGUI_1_1ActivationEventArgs.html" title="EventArgs based class that is used for Activated and Deactivated window events. " alt="" coords="699,425,891,458"/>
+<area shape="rect" id="node33" href="$classCEGUI_1_1DragDropEventArgs.html" title="EventArgs based class used for certain drag/drop notifications. " alt="" coords="700,481,889,514"/>
+<area shape="rect" id="node35" href="$classCEGUI_1_1HeaderSequenceEventArgs.html" title="EventArgs class used for segment move (sequence changed) events. " alt="" coords="677,537,912,570"/>
+<area shape="rect" id="node37" href="$classCEGUI_1_1KeyEventArgs.html" title="EventArgs based class that is used for objects passed to input event handlers concerning keyboard inp..." alt="" coords="716,593,873,626"/>
+<area shape="rect" id="node39" href="$classCEGUI_1_1MouseEventArgs.html" title="EventArgs based class that is used for objects passed to input event handlers concerning mouse input..." alt="" coords="708,649,881,682"/>
+<area shape="rect" id="node41" href="$classCEGUI_1_1RegexMatchStateEventArgs.html" title="CEGUI::RegexMatchStateEventArgs" alt="" coords="676,705,913,738"/>
+<area shape="rect" id="node43" href="$classCEGUI_1_1TreeEventArgs.html" title="EventArgs based class that is used for objects passed to input event handlers concerning Tree events..." alt="" coords="716,761,873,794"/>
+<area shape="rect" id="node45" href="$classCEGUI_1_1UpdateEventArgs.html" title="WindowEventArgs class that is primarily used by lua scripts. " alt="" coords="707,817,883,850"/>
+</map>

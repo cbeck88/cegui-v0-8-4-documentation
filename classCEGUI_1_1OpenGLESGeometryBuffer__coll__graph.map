@@ -1,0 +1,5 @@
+<map id="CEGUI::OpenGLESGeometryBuffer" name="CEGUI::OpenGLESGeometryBuffer">
+<area shape="rect" id="node2" href="$classCEGUI_1_1GeometryBuffer.html" title="Abstract class defining the interface for objects that buffer geometry for later rendering. " alt="" coords="5,6,168,39"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1Rect.html" title="CEGUI::Rect\&lt; float \&gt;" alt="" coords="192,6,341,39"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1OpenGLESTexture.html" title="Texture implementation for the OpenGLESRenderer. " alt="" coords="365,6,547,39"/>
+</map>

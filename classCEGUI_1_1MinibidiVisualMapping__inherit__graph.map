@@ -1,0 +1,4 @@
+<map id="CEGUI::MinibidiVisualMapping" name="CEGUI::MinibidiVisualMapping">
+<area shape="rect" id="node2" href="$classCEGUI_1_1BidiVisualMapping.html" title="Abstract class to wrap a Bidi visual mapping of a text string. " alt="" coords="17,110,196,143"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; BidiVisualMapping \&gt;" alt="" coords="24,6,189,61"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; RenderEffectManager \&gt;" alt="" coords="11,5,181,59"/>
+<area shape="rect" id="node3" href="$classCEGUI_1_1RenderEffectManager.html" title="Singleton class that manages creation and destruction of RenderEffect based objects. " alt="" coords="236,54,433,87"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1Singleton.html" title="CEGUI::Singleton\&lt; Render\lEffectManager \&gt;" alt="" coords="5,82,187,137"/>
+</map>

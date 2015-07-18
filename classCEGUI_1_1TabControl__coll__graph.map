@@ -1,0 +1,5 @@
+<map id="CEGUI::TabControl" name="CEGUI::TabControl">
+<area shape="rect" id="node2" href="$classCEGUI_1_1Window.html" title="An abstract base class providing common functionality and specifying the required interface for deriv..." alt="" coords="197,391,317,425"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1String.html" title="String class used within the GUI system. " alt="" coords="45,6,152,39"/>
+<area shape="rect" id="node7" href="$classCEGUI_1_1UDim.html" title="Dimension that has both a relative &#39;scale&#39; portion and and absolute &#39;offset&#39; portion. " alt="" coords="447,391,553,425"/>
+</map>

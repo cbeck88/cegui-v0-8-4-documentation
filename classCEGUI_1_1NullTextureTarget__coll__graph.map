@@ -1,0 +1,5 @@
+<map id="CEGUI::NullTextureTarget" name="CEGUI::NullTextureTarget">
+<area shape="rect" id="node2" href="$classCEGUI_1_1NullRenderTarget.html" title="CEGUI::NullRenderTarget\l\&lt; TextureTarget \&gt;" alt="" coords="5,91,179,146"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1TextureTarget.html" title="Specialisation of RenderTarget interface that should be used as the base class for RenderTargets that..." alt="" coords="16,6,168,39"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1NullTexture.html" title="Implementation of the CEGUI::Texture class for no particular engine. " alt="" coords="203,102,341,135"/>
+</map>

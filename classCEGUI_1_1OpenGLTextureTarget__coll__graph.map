@@ -1,0 +1,5 @@
+<map id="CEGUI::OpenGLTextureTarget" name="CEGUI::OpenGLTextureTarget">
+<area shape="rect" id="node2" href="$classCEGUI_1_1OpenGLRenderTarget.html" title="CEGUI::OpenGLRenderTarget\l\&lt; TextureTarget \&gt;" alt="" coords="5,91,203,146"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1TextureTarget.html" title="Specialisation of RenderTarget interface that should be used as the base class for RenderTargets that..." alt="" coords="28,6,180,39"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1OpenGLTexture.html" title="Texture implementation for the OpenGLRenderer. " alt="" coords="227,102,389,135"/>
+</map>

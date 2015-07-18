@@ -1,0 +1,5 @@
+<map id="CEGUI::FalagardTooltip" name="CEGUI::FalagardTooltip">
+<area shape="rect" id="node2" href="$classCEGUI_1_1TooltipWindowRenderer.html" title="Base class for Tooltip window renderer objects. " alt="" coords="79,235,289,269"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1WindowRenderer.html" title="Base&#45;class for the assignable WindowRenderer object. " alt="" coords="83,131,256,165"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1String.html" title="String class used within the GUI system. " alt="" coords="31,6,137,39"/>
+</map>

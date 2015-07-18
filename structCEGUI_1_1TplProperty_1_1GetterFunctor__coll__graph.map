@@ -1,0 +1,5 @@
+<map id="CEGUI::TplProperty&lt; C, T &gt;::GetterFunctor" name="CEGUI::TplProperty&lt; C, T &gt;::GetterFunctor">
+<area shape="rect" id="node2" href="$structCEGUI_1_1TplProperty_1_1GetterFunctor_1_1EnsureRef.html" title="CEGUI::TplProperty\l\&lt; C, T \&gt;::GetterFunctor\l::EnsureRef\&lt; typename Helper\l::safe_method_return_type \&gt;" alt="" coords="20,5,223,102"/>
+<area shape="rect" id="node4" href="$structCEGUI_1_1TplProperty_1_1GetterFunctor_1_1EnsureConstRef.html" title="CEGUI::TplProperty\l\&lt; C, T \&gt;::GetterFunctor\l::EnsureConstRef\&lt; typename\l Helper::safe_method_return_type \&gt;" alt="" coords="7,125,236,222"/>
+<area shape="rect" id="node6" href="$structCEGUI_1_1TplProperty_1_1GetterFunctor_1_1EnsurePlain.html" title="CEGUI::TplProperty\l\&lt; C, T \&gt;::GetterFunctor\l::EnsurePlain\&lt; typename\l Helper::safe_method_return_type \&gt;" alt="" coords="7,245,236,342"/>
+</map>

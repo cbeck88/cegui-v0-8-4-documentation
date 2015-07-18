@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; FactoryRegisterer \&gt;" alt="" coords="5,22,171,77"/>
+<area shape="rect" id="node3" href="$classCEGUI_1_1FactoryRegisterer.html" title="Base class encapsulating a type name and common parts of factory registration. " alt="" coords="220,33,396,66"/>
+<area shape="rect" id="node5" href="$classCEGUI_1_1TplWindowFactoryRegisterer.html" title="Template based implementation of FactoryRegisterer that allows easy registration of a factory for any..." alt="" coords="445,5,720,38"/>
+<area shape="rect" id="node7" href="$classCEGUI_1_1TplWRFactoryRegisterer.html" title="Template based implementation of FactoryRegisterer that allows easy registration of a factory for any..." alt="" coords="457,61,708,94"/>
+</map>

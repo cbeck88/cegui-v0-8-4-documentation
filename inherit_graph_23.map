@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; ImageCodec \&gt;" alt="" coords="5,218,171,273"/>
+<area shape="rect" id="node3" href="$classCEGUI_1_1ImageCodec.html" title="Abstract ImageLoader class. An image loader encapsulate the loading of a texture. ..." alt="" coords="219,229,365,262"/>
+<area shape="rect" id="node5" href="$classCEGUI_1_1CoronaImageCodec.html" title="Image codec based on the Corona library. " alt="" coords="424,5,613,38"/>
+<area shape="rect" id="node7" href="$classCEGUI_1_1DevILImageCodec.html" title="Image codec based on the DevIL library. " alt="" coords="428,61,609,94"/>
+<area shape="rect" id="node9" href="$classCEGUI_1_1FreeImageImageCodec.html" title="Image codec based on the FreeImage library. " alt="" coords="415,117,623,150"/>
+<area shape="rect" id="node11" href="$classCEGUI_1_1IrrlichtImageCodec.html" title="ImageCodec object that loads data via image loading facilities in Irrlicht. " alt="" coords="428,173,609,206"/>
+<area shape="rect" id="node13" href="$classCEGUI_1_1OgreImageCodec.html" title="ImageCodec object that loads data via image loading facilities in Ogre. " alt="" coords="432,229,605,262"/>
+<area shape="rect" id="node15" href="$classCEGUI_1_1PVRImageCodec.html" title="Implementation of ImageCodec interface for loading PVR files. " alt="" coords="432,285,605,318"/>
+<area shape="rect" id="node17" href="$classCEGUI_1_1SILLYImageCodec.html" title="Image codec based on the SILLY library. " alt="" coords="428,341,609,374"/>
+<area shape="rect" id="node19" href="$classCEGUI_1_1STBImageCodec.html" title="Image codec based on stb_image.c. " alt="" coords="432,397,605,430"/>
+<area shape="rect" id="node21" href="$classCEGUI_1_1TGAImageCodec.html" title="Default image codec. " alt="" coords="432,453,605,486"/>
+</map>

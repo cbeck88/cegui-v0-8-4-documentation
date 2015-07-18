@@ -1,0 +1,5 @@
+<map id="CEGUI::IrrlichtResourceProvider" name="CEGUI::IrrlichtResourceProvider">
+<area shape="rect" id="node2" href="$classCEGUI_1_1DefaultResourceProvider.html" title="CEGUI::DefaultResourceProvider" alt="" coords="5,193,224,226"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1ResourceProvider.html" title="Abstract class that defines the required interface for all resource provider sub&#45;classes. " alt="" coords="27,110,203,143"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; ResourceProvider \&gt;" alt="" coords="32,6,197,61"/>
+</map>

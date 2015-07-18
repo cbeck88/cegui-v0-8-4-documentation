@@ -1,0 +1,5 @@
+<map id="CEGUI::RegexMatchStateEventArgs" name="CEGUI::RegexMatchStateEventArgs">
+<area shape="rect" id="node2" href="$classCEGUI_1_1WindowEventArgs.html" title="EventArgs based class that is used for objects passed to handlers triggered for events concerning som..." alt="" coords="33,110,215,143"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1EventArgs.html" title="Base class used as the argument to all subscribers Event object. " alt="" coords="9,6,143,39"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1Window.html" title="An abstract base class providing common functionality and specifying the required interface for deriv..." alt="" coords="167,6,287,39"/>
+</map>

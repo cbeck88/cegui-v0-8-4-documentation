@@ -1,0 +1,5 @@
+<map id="CEGUI::ImageryComponent" name="CEGUI::ImageryComponent">
+<area shape="rect" id="node2" href="$classCEGUI_1_1FalagardComponentBase.html" title="Common base class used for renderable components within an ImagerySection. " alt="" coords="300,58,519,91"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1String.html" title="String class used within the GUI system. " alt="" coords="5,58,112,91"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1FormattingSetting.html" title="CEGUI::FormattingSetting\l\&lt; HorizontalFormatting \&gt;" alt="" coords="321,114,497,169"/>
+</map>

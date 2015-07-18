@@ -1,0 +1,4 @@
+<map id="CEGUI::DefaultLogger" name="CEGUI::DefaultLogger">
+<area shape="rect" id="node2" href="$classCEGUI_1_1Logger.html" title="Abstract class that defines the interface of a logger object for the GUI system. &#160;The default impleme..." alt="" coords="44,89,156,122"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1Singleton.html" title="CEGUI::Singleton\&lt; Logger \&gt;" alt="" coords="5,6,195,39"/>
+</map>

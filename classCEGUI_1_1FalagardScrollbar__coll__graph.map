@@ -1,0 +1,5 @@
+<map id="CEGUI::FalagardScrollbar" name="CEGUI::FalagardScrollbar">
+<area shape="rect" id="node2" href="$classCEGUI_1_1ScrollbarWindowRenderer.html" title="Base class for Scrollbar window renderer objects. " alt="" coords="84,235,308,269"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1WindowRenderer.html" title="Base&#45;class for the assignable WindowRenderer object. " alt="" coords="91,131,264,165"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1String.html" title="String class used within the GUI system. " alt="" coords="36,6,143,39"/>
+</map>

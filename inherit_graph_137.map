@@ -1,0 +1,18 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; Property \&gt;" alt="" coords="5,201,171,255"/>
+<area shape="rect" id="node3" href="$classCEGUI_1_1Property.html" title="An abstract class that defines the interface to access object properties by name. ..." alt="" coords="219,211,341,245"/>
+<area shape="rect" id="node5" href="$classCEGUI_1_1TypedProperty.html" title="base class for properties able to do native set/get " alt="" coords="400,211,589,245"/>
+<area shape="rect" id="node19" href="$classCEGUI_1_1XercesParserProperties_1_1SchemaDefaultResourceGroup.html" title="Property to access the resource group used to load .xsd schema files. " alt="" coords="389,329,600,383"/>
+<area shape="rect" id="node21" href="$classCEGUI_1_1TypedProperty.html" title="CEGUI::TypedProperty\l\&lt; String \&gt;" alt="" coords="416,110,573,165"/>
+<area shape="rect" id="node7" href="$classCEGUI_1_1FalagardPropertyBase.html" title="CEGUI::FalagardPropertyBase\&lt; T \&gt;" alt="" coords="648,275,883,309"/>
+<area shape="rect" id="node13" href="$classCEGUI_1_1TplProperty.html" title="CEGUI::TplProperty\l\&lt; C, T \&gt;" alt="" coords="696,198,835,253"/>
+<area shape="rect" id="node9" href="$classCEGUI_1_1PropertyDefinition.html" title="CEGUI::PropertyDefinition\&lt; T \&gt;" alt="" coords="944,275,1152,309"/>
+<area shape="rect" id="node11" href="$classCEGUI_1_1PropertyLinkDefinition.html" title="Class representing a property that links to another property defined on an attached child widget..." alt="" coords="932,331,1164,365"/>
+<area shape="rect" id="node15" href="$classCEGUI_1_1TplWindowProperty.html" title="CEGUI::TplWindowProperty\l\&lt; C, T \&gt;" alt="" coords="955,121,1141,175"/>
+<area shape="rect" id="node17" href="$classCEGUI_1_1TplWindowRendererProperty.html" title="CEGUI::TplWindowRenderer\lProperty\&lt; C, T \&gt;" alt="" coords="953,198,1143,253"/>
+<area shape="rect" id="node23" href="$classCEGUI_1_1TplProperty.html" title="CEGUI::TplProperty\l\&lt; Window, String \&gt;" alt="" coords="696,82,835,137"/>
+<area shape="rect" id="node25" href="$classCEGUI_1_1TplWindowProperty.html" title="CEGUI::TplWindowProperty\l\&lt; Window, String \&gt;" alt="" coords="955,43,1141,98"/>
+<area shape="rect" id="node27" href="$classCEGUI_1_1Window_1_1LookNFeelProperty.html" title="Property to access/change the assigned look&#39;n&#39;feel. " alt="" coords="1233,5,1423,59"/>
+<area shape="rect" id="node29" href="$classCEGUI_1_1Window_1_1WindowRendererProperty.html" title="Property to access/change the assigned window renderer object. " alt="" coords="1215,82,1441,137"/>
+<area shape="rect" id="node30" href="$classCEGUI_1_1PropertyDefinitionBase.html" title="common base class used for types representing a new property to be available on all widgets that use ..." alt="" coords="392,273,597,306"/>
+</map>

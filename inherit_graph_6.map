@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; BoundSlot \&gt;" alt="" coords="5,5,171,59"/>
+<area shape="rect" id="node3" href="$classCEGUI_1_1BoundSlot.html" title="Class that tracks a SubscriberSlot, its group, and the Event to which it was subscribed. This is effectively what gets returned from the calls to the Event::subscribe members, though BoundSlot is always wrapped in a reference counted pointer. When a BoundSlot is deleted, the connection is unsubscribed and the SubscriberSlot is deleted. " alt="" coords="219,15,352,49"/>
+</map>

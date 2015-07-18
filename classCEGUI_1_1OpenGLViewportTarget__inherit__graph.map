@@ -1,0 +1,4 @@
+<map id="CEGUI::OpenGLViewportTarget" name="CEGUI::OpenGLViewportTarget">
+<area shape="rect" id="node2" href="$classCEGUI_1_1OpenGLRenderTarget.html" title="CEGUI::OpenGLRenderTarget\&lt;\&gt;" alt="" coords="5,89,219,122"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1RenderTarget.html" title="Defines interface to some surface that can be rendered to. Concrete instances of objects that impleme..." alt="" coords="37,6,187,39"/>
+</map>

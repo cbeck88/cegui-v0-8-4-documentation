@@ -1,0 +1,4 @@
+<map id="CEGUI::ColourPickerControls" name="CEGUI::ColourPickerControls">
+<area shape="rect" id="node2" href="$classCEGUI_1_1Window.html" title="An abstract base class providing common functionality and specifying the required interface for deriv..." alt="" coords="44,89,164,122"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1NamedElement.html" title="Adds name to the Element class, including name path traversal. " alt="" coords="23,6,185,39"/>
+</map>

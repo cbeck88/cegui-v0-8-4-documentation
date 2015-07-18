@@ -1,0 +1,5 @@
+<map id="CEGUI::FalagardEditbox" name="CEGUI::FalagardEditbox">
+<area shape="rect" id="node2" href="$classCEGUI_1_1EditboxWindowRenderer.html" title="Base class for the EditboxWindowRenderer class. " alt="" coords="108,321,324,354"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1WindowRenderer.html" title="Base&#45;class for the assignable WindowRenderer object. " alt="" coords="119,131,292,165"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1String.html" title="String class used within the GUI system. " alt="" coords="41,6,148,39"/>
+</map>

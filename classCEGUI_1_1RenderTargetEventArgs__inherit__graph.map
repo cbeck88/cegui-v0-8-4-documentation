@@ -1,0 +1,4 @@
+<map id="CEGUI::RenderTargetEventArgs" name="CEGUI::RenderTargetEventArgs">
+<area shape="rect" id="node2" href="$classCEGUI_1_1EventArgs.html" title="Base class used as the argument to all subscribers Event object. " alt="" coords="44,110,177,143"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1AllocatedObject.html" title="CEGUI::AllocatedObject\l\&lt; EventArgs \&gt;" alt="" coords="28,6,193,61"/>
+</map>

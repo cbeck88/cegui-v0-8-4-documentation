@@ -1,0 +1,5 @@
+<map id="CEGUI::FalagardPropertyBase&lt; T &gt;" name="CEGUI::FalagardPropertyBase&lt; T &gt;">
+<area shape="rect" id="node2" href="$classCEGUI_1_1PropertyDefinitionBase.html" title="common base class used for types representing a new property to be available on all widgets that use ..." alt="" coords="5,217,211,250"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1String.html" title="String class used within the GUI system. " alt="" coords="55,6,161,39"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1TypedProperty.html" title="base class for properties able to do native set/get " alt="" coords="235,217,424,250"/>
+</map>

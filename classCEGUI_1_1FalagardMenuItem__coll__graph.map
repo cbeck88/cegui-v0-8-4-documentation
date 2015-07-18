@@ -1,0 +1,5 @@
+<map id="CEGUI::FalagardMenuItem" name="CEGUI::FalagardMenuItem">
+<area shape="rect" id="node2" href="$classCEGUI_1_1ItemEntryWindowRenderer.html" title="Base class for ItemEntry window renderer objects. " alt="" coords="88,235,317,269"/>
+<area shape="rect" id="node4" href="$classCEGUI_1_1WindowRenderer.html" title="Base&#45;class for the assignable WindowRenderer object. " alt="" coords="95,131,268,165"/>
+<area shape="rect" id="node6" href="$classCEGUI_1_1String.html" title="String class used within the GUI system. " alt="" coords="40,6,147,39"/>
+</map>
